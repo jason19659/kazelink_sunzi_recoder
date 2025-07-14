@@ -1,0 +1,11 @@
+﻿此文件内记录了对应的视频文件中可能存在的问题
+mikufans录播姬 2.17.0
+
+-----记录开始-----
+记录时间: 2025-07-06T15:51:43.7485791+00:00
+视频时间: 00:00:05.224
+文件位置: 522030 字节
+收到直播服务器发送的 onMetaData 数据，请检查此位置是否有重复的直播片段或缺少数据。
+造成这个问题的原因可能是录播姬所连接的直播服务器与它的上级服务器的连接断开重连了。
+数据内容: [{"Type":"String","Value":"onMetaData"},{"Type":"Object","Value":{"audiodatarate":{"Type":"Number","Value":192.0},"height":{"Type":"Number","Value":720.0},"displayHeight":{"Type":"Number","Value":720.0},"width":{"Type":"Number","Value":1280.0},"Rawdata":{"Type":"String","Value":""},"cdn_ip":{"Type":"String","Value":"192.168.252.5"},"duration":{"Type":"Number","Value":0.0},"framerate":{"Type":"Number","Value":30.0},"videodatarate":{"Type":"Number","Value":0.0},"audiocodecid":{"Type":"Number","Value":10.0},"fps":{"Type":"Number","Value":30.0},"profile":{"Type":"String","Value":""},"level":{"Type":"String","Value":""},"displayWidth":{"Type":"Number","Value":1280.0},"encoder":{"Type":"String","Value":"obs-output module (libobs versi,BILIAVC.2.1.0.live"},"videocodecid":{"Type":"Number","Value":7.0}}},{"Type":"Null"}]
+-----记录结束-----

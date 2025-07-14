@@ -1,0 +1,35 @@
+﻿此文件内记录了对应的视频文件中可能存在的问题
+mikufans录播姬 2.11.0
+
+-----记录开始-----
+记录时间: 2025-06-16T20:05:05.2694498+00:00
+视频时间: 05:08:09.973
+文件位置: 8445713144 字节
+收到直播服务器发送的 onMetaData 数据，请检查此位置是否有重复的直播片段或缺少数据。
+造成这个问题的原因可能是录播姬所连接的直播服务器与它的上级服务器的连接断开重连了。
+数据内容: [{"Type":"String","Value":"onMetaData"},{"Type":"Object","Value":{"cdn_ip":{"Type":"String","Value":"192.168.252.3"},"height":{"Type":"Number","Value":1080.0},"encoder":{"Type":"String","Value":"(libobs version 31.0.2),BILIAVC.2.1.0.live"},"fps":{"Type":"Number","Value":60.0},"Rawdata":{"Type":"String","Value":""},"framerate":{"Type":"Number","Value":60.0},"displayHeight":{"Type":"Number","Value":1080.0},"level":{"Type":"String","Value":""},"audiodatarate":{"Type":"Number","Value":187.0},"videocodecid":{"Type":"Number","Value":7.0},"displayWidth":{"Type":"Number","Value":1920.0},"duration":{"Type":"Number","Value":0.0},"width":{"Type":"Number","Value":1920.0},"profile":{"Type":"String","Value":""},"videodatarate":{"Type":"Number","Value":0.0},"audiocodecid":{"Type":"Number","Value":10.0}}},{"Type":"Null"}]
+-----记录结束-----
+-----记录开始-----
+记录时间: 2025-06-16T20:05:06.4337844+00:00
+视频时间: 05:08:13.277
+文件位置: 8446560500 字节
+收到直播服务器发送的 onMetaData 数据，请检查此位置是否有重复的直播片段或缺少数据。
+造成这个问题的原因可能是录播姬所连接的直播服务器与它的上级服务器的连接断开重连了。
+数据内容: [{"Type":"String","Value":"onMetaData"},{"Type":"Object","Value":{"videocodecid":{"Type":"Number","Value":7.0},"Rawdata":{"Type":"String","Value":""},"displayHeight":{"Type":"Number","Value":1080.0},"fps":{"Type":"Number","Value":60.0},"level":{"Type":"String","Value":""},"height":{"Type":"Number","Value":1080.0},"profile":{"Type":"String","Value":""},"width":{"Type":"Number","Value":1920.0},"encoder":{"Type":"String","Value":"(libobs version 31.0.2),BILIAVC.2.1.0.live"},"displayWidth":{"Type":"Number","Value":1920.0},"audiocodecid":{"Type":"Number","Value":10.0},"cdn_ip":{"Type":"String","Value":"192.168.252.3"},"framerate":{"Type":"Number","Value":60.0},"duration":{"Type":"Number","Value":0.0},"audiodatarate":{"Type":"Number","Value":187.0},"videodatarate":{"Type":"Number","Value":0.0}}},{"Type":"Null"}]
+-----记录结束-----
+-----记录开始-----
+记录时间: 2025-06-16T20:05:09.5458900+00:00
+视频时间: 05:08:20.690
+文件位置: 8448377854 字节
+收到直播服务器发送的 onMetaData 数据，请检查此位置是否有重复的直播片段或缺少数据。
+造成这个问题的原因可能是录播姬所连接的直播服务器与它的上级服务器的连接断开重连了。
+数据内容: [{"Type":"String","Value":"onMetaData"},{"Type":"Object","Value":{"fps":{"Type":"Number","Value":60.0},"duration":{"Type":"Number","Value":0.0},"videodatarate":{"Type":"Number","Value":0.0},"audiocodecid":{"Type":"Number","Value":10.0},"displayHeight":{"Type":"Number","Value":1080.0},"encoder":{"Type":"String","Value":"(libobs version 31.0.2),BILIAVC.2.1.0.live"},"videocodecid":{"Type":"Number","Value":7.0},"profile":{"Type":"String","Value":""},"level":{"Type":"String","Value":""},"height":{"Type":"Number","Value":1080.0},"cdn_ip":{"Type":"String","Value":"192.168.252.3"},"audiodatarate":{"Type":"Number","Value":187.0},"width":{"Type":"Number","Value":1920.0},"Rawdata":{"Type":"String","Value":""},"framerate":{"Type":"Number","Value":60.0},"displayWidth":{"Type":"Number","Value":1920.0}}},{"Type":"Null"}]
+-----记录结束-----
+-----记录开始-----
+记录时间: 2025-06-16T20:05:10.3853997+00:00
+视频时间: 05:08:20.690
+文件位置: 8448377854 字节
+收到直播服务器发送的 onMetaData 数据，请检查此位置是否有重复的直播片段或缺少数据。
+造成这个问题的原因可能是录播姬所连接的直播服务器与它的上级服务器的连接断开重连了。
+数据内容: [{"Type":"String","Value":"onMetaData"},{"Type":"Object","Value":{"width":{"Type":"Number","Value":1920.0},"Rawdata":{"Type":"String","Value":""},"encoder":{"Type":"String","Value":"(libobs version 31.0.2),BILIAVC.2.1.0.live"},"level":{"Type":"String","Value":""},"audiodatarate":{"Type":"Number","Value":187.0},"framerate":{"Type":"Number","Value":60.0},"duration":{"Type":"Number","Value":0.0},"cdn_ip":{"Type":"String","Value":"192.168.252.3"},"height":{"Type":"Number","Value":1080.0},"videocodecid":{"Type":"Number","Value":7.0},"profile":{"Type":"String","Value":""},"displayHeight":{"Type":"Number","Value":1080.0},"fps":{"Type":"Number","Value":60.0},"videodatarate":{"Type":"Number","Value":0.0},"audiocodecid":{"Type":"Number","Value":10.0},"displayWidth":{"Type":"Number","Value":1920.0}}},{"Type":"Null"}]
+-----记录结束-----

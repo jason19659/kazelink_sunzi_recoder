@@ -1,0 +1,23 @@
+'ffmpeg' 不是内部或外部命令，也不是可运行的程序
+或批处理文件。
+ffmpeg version 7.1.1-essentials_build-www.gyan.dev Copyright (c) 2000-2025 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.101 / 61. 19.101
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+[Parsed_scale2ref_4 @ 000001b508de8040] scale2ref is deprecated, use scale=rw:rh instead
+[Parsed_ass_16 @ 000001b508e0e7c0] libass API version: 0x1703020
+[Parsed_ass_16 @ 000001b508e0e7c0] libass source: commit: 0.17.3-79-g1b699559025185e34d21a24cac477ca360cb917d
+[Parsed_ass_16 @ 000001b508e0e7c0] Shaper: FriBidi 1.0.16 (SIMPLE) HarfBuzz-ng 10.4.0 (COMPLEX)
+[Parsed_ass_16 @ 000001b508e0e7c0] Using font provider directwrite (with GDI)
+[Parsed_ass_16 @ 000001b508e0e7c0] Added subtitle file: '32426326-20250523-154148-746.all.ass' (7 styles, 2253 events)
+[concat @ 000001b5094fed00] Impossible to open '/storage/32426326/20250523/32426326-20250523-154148-746.flv'
+[in#0 @ 000001b50966a0c0] Error opening input: No such file or directory
+Error opening input file 32426326-20250523-154148-746.all.concat.txt.
+Error opening input files: No such file or directory

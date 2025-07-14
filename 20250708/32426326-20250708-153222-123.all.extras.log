@@ -1,0 +1,127 @@
+/webhook/venv/lib/python3.10/site-packages/danmaku_tools/danmaku_energy_map.py:24: DeprecationWarning: Please import `convolve` from the `scipy.ndimage` namespace; the `scipy.ndimage.filters` namespace is deprecated and will be removed in SciPy 2.0.0.
+  from scipy.ndimage.filters import convolve
+Building prefix dict from the default dictionary ...
+Dumping model to file cache /tmp/jieba.cache
+Loading model cost 0.604 seconds.
+Prefix dict has been built successfully.
+  0%|          | 0/98 [00:00<?, ?it/s]18
+19
+  2%|▏         | 2/98 [00:00<00:09, 10.03it/s]8
+5
+17
+116
+  6%|▌         | 6/98 [00:00<00:07, 11.76it/s]8
+3
+27
+1
+68
+ 11%|█         | 11/98 [00:00<00:04, 18.10it/s]29
+16
+43
+ 14%|█▍        | 14/98 [00:00<00:04, 17.46it/s]0
+1
+19
+0
+7
+15
+7
+ 21%|██▏       | 21/98 [00:00<00:02, 28.62it/s]9
+2
+15
+4
+3
+0
+7
+3
+16
+35
+ 32%|███▏      | 31/98 [00:01<00:02, 31.54it/s]11
+0
+9
+3
+ 36%|███▌      | 35/98 [00:01<00:02, 29.87it/s]9
+1
+30
+2
+3
+3
+0
+51
+ 44%|████▍     | 43/98 [00:01<00:01, 30.48it/s]6
+13
+3
+37
+ 48%|████▊     | 47/98 [00:01<00:01, 31.11it/s]0
+0
+0
+0
+33
+ 53%|█████▎    | 52/98 [00:01<00:01, 31.95it/s]0
+17
+2
+2
+ 57%|█████▋    | 56/98 [00:02<00:01, 27.89it/s]1
+3
+1
+5
+0
+3
+18
+ 64%|██████▍   | 63/98 [00:02<00:01, 30.68it/s]7
+2
+0
+1
+14
+1
+ 70%|███████   | 69/98 [00:02<00:00, 36.26it/s]0
+0
+0
+1
+4
+13
+16
+ 78%|███████▊  | 76/98 [00:02<00:00, 36.88it/s]0
+0
+1
+12
+1
+2
+0
+21
+22
+47
+ 88%|████████▊ | 86/98 [00:02<00:00, 46.82it/s]1
+3
+17
+1
+5
+1
+4
+3
+0
+7
+4
+4
+100%|██████████| 98/98 [00:02<00:00, 34.58it/s]
+
+DanmakuFactory 1.70 CLI Release by hkm (hkm@tikm.org)
+https://github.com/hihkm/DanmakuFactory
+
+Input file(s):
+Number|Template     |TimeShift|FileName
+     1|xml          |   0.000s|/storage/32426326/20250708/32426326-20250708-153222-123.all.clean.xml
+
+Output file:
+Format|FileName
+   ass|/storage/32426326/20250708/32426326-20250708-153222-123.all.ass
+
+Loading files...
+Loading file "/storage/32426326/20250708/32426326-20250708-153222-123.all.clean.xml"
+
+File Loading Complete.. Danmaku Pool: 2433
+
+Sorting...
+
+Writting file "/storage/32426326/20250708/32426326-20250708-153222-123.all.ass"...
+
+Done!

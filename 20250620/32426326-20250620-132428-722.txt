@@ -1,0 +1,43 @@
+﻿此文件内记录了对应的视频文件中可能存在的问题
+mikufans录播姬 2.11.0
+
+-----记录开始-----
+记录时间: 2025-06-20T17:44:09.0836586+00:00
+视频时间: 04:19:40.071
+文件位置: 19323524854 字节
+收到直播服务器发送的 onMetaData 数据，请检查此位置是否有重复的直播片段或缺少数据。
+造成这个问题的原因可能是录播姬所连接的直播服务器与它的上级服务器的连接断开重连了。
+数据内容: [{"Type":"String","Value":"onMetaData"},{"Type":"Object","Value":{"audiodatarate":{"Type":"Number","Value":192.0},"videodatarate":{"Type":"Number","Value":10000.0},"width":{"Type":"Number","Value":2560.0},"Rawdata":{"Type":"String","Value":""},"fps":{"Type":"Number","Value":60.0},"videocodecid":{"Type":"Number","Value":7.0},"duration":{"Type":"Number","Value":0.0},"audiocodecid":{"Type":"Number","Value":10.0},"encoder":{"Type":"String","Value":"obs-output module (libobs version 31.0.2)"},"displayHeight":{"Type":"Number","Value":1440.0},"framerate":{"Type":"Number","Value":60.0},"displayWidth":{"Type":"Number","Value":2560.0},"height":{"Type":"Number","Value":1440.0},"level":{"Type":"String","Value":""},"profile":{"Type":"String","Value":""},"cdn_ip":{"Type":"String","Value":"192.168.252.5"}}},{"Type":"Null"}]
+-----记录结束-----
+-----记录开始-----
+记录时间: 2025-06-20T17:44:09.9988625+00:00
+视频时间: 04:19:44.203
+文件位置: 19328812316 字节
+收到直播服务器发送的 onMetaData 数据，请检查此位置是否有重复的直播片段或缺少数据。
+造成这个问题的原因可能是录播姬所连接的直播服务器与它的上级服务器的连接断开重连了。
+数据内容: [{"Type":"String","Value":"onMetaData"},{"Type":"Object","Value":{"framerate":{"Type":"Number","Value":60.0},"displayWidth":{"Type":"Number","Value":2560.0},"audiocodecid":{"Type":"Number","Value":10.0},"Rawdata":{"Type":"String","Value":""},"displayHeight":{"Type":"Number","Value":1440.0},"encoder":{"Type":"String","Value":"obs-output module (libobs version 31.0.2)"},"profile":{"Type":"String","Value":""},"width":{"Type":"Number","Value":2560.0},"videocodecid":{"Type":"Number","Value":7.0},"audiodatarate":{"Type":"Number","Value":192.0},"duration":{"Type":"Number","Value":0.0},"level":{"Type":"String","Value":""},"height":{"Type":"Number","Value":1440.0},"cdn_ip":{"Type":"String","Value":"192.168.252.5"},"videodatarate":{"Type":"Number","Value":10000.0},"fps":{"Type":"Number","Value":60.0}}},{"Type":"Null"}]
+-----记录结束-----
+-----记录开始-----
+记录时间: 2025-06-20T17:44:13.1102464+00:00
+视频时间: 04:19:48.384
+文件位置: 19334077228 字节
+收到直播服务器发送的 onMetaData 数据，请检查此位置是否有重复的直播片段或缺少数据。
+造成这个问题的原因可能是录播姬所连接的直播服务器与它的上级服务器的连接断开重连了。
+数据内容: [{"Type":"String","Value":"onMetaData"},{"Type":"Object","Value":{"width":{"Type":"Number","Value":2560.0},"videocodecid":{"Type":"Number","Value":7.0},"level":{"Type":"String","Value":""},"height":{"Type":"Number","Value":1440.0},"Rawdata":{"Type":"String","Value":""},"duration":{"Type":"Number","Value":0.0},"fps":{"Type":"Number","Value":60.0},"displayWidth":{"Type":"Number","Value":2560.0},"audiodatarate":{"Type":"Number","Value":192.0},"framerate":{"Type":"Number","Value":60.0},"encoder":{"Type":"String","Value":"obs-output module (libobs version 31.0.2)"},"audiocodecid":{"Type":"Number","Value":10.0},"displayHeight":{"Type":"Number","Value":1440.0},"profile":{"Type":"String","Value":""},"cdn_ip":{"Type":"String","Value":"192.168.252.5"},"videodatarate":{"Type":"Number","Value":10000.0}}},{"Type":"Null"}]
+-----记录结束-----
+-----记录开始-----
+记录时间: 2025-06-20T17:44:13.2432579+00:00
+视频时间: 04:19:48.384
+文件位置: 19334077228 字节
+收到直播服务器发送的 onMetaData 数据，请检查此位置是否有重复的直播片段或缺少数据。
+造成这个问题的原因可能是录播姬所连接的直播服务器与它的上级服务器的连接断开重连了。
+数据内容: [{"Type":"String","Value":"onMetaData"},{"Type":"Object","Value":{"encoder":{"Type":"String","Value":"obs-output module (libobs version 31.0.2)"},"displayWidth":{"Type":"Number","Value":2560.0},"videocodecid":{"Type":"Number","Value":7.0},"level":{"Type":"String","Value":""},"height":{"Type":"Number","Value":1440.0},"Rawdata":{"Type":"String","Value":""},"profile":{"Type":"String","Value":""},"audiodatarate":{"Type":"Number","Value":192.0},"fps":{"Type":"Number","Value":60.0},"audiocodecid":{"Type":"Number","Value":10.0},"cdn_ip":{"Type":"String","Value":"192.168.252.5"},"duration":{"Type":"Number","Value":0.0},"videodatarate":{"Type":"Number","Value":10000.0},"width":{"Type":"Number","Value":2560.0},"framerate":{"Type":"Number","Value":60.0},"displayHeight":{"Type":"Number","Value":1440.0}}},{"Type":"Null"}]
+-----记录结束-----
+-----记录开始-----
+记录时间: 2025-06-20T17:44:13.9516875+00:00
+视频时间: 04:19:48.384
+文件位置: 19334077228 字节
+收到直播服务器发送的 onMetaData 数据，请检查此位置是否有重复的直播片段或缺少数据。
+造成这个问题的原因可能是录播姬所连接的直播服务器与它的上级服务器的连接断开重连了。
+数据内容: [{"Type":"String","Value":"onMetaData"},{"Type":"Object","Value":{"audiocodecid":{"Type":"Number","Value":10.0},"profile":{"Type":"String","Value":""},"audiodatarate":{"Type":"Number","Value":192.0},"displayHeight":{"Type":"Number","Value":1440.0},"level":{"Type":"String","Value":""},"framerate":{"Type":"Number","Value":60.0},"height":{"Type":"Number","Value":1440.0},"cdn_ip":{"Type":"String","Value":"192.168.252.5"},"duration":{"Type":"Number","Value":0.0},"fps":{"Type":"Number","Value":60.0},"width":{"Type":"Number","Value":2560.0},"videocodecid":{"Type":"Number","Value":7.0},"encoder":{"Type":"String","Value":"obs-output module (libobs version 31.0.2)"},"displayWidth":{"Type":"Number","Value":2560.0},"Rawdata":{"Type":"String","Value":""},"videodatarate":{"Type":"Number","Value":10000.0}}},{"Type":"Null"}]
+-----记录结束-----

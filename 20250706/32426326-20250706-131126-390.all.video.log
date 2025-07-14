@@ -1,0 +1,98 @@
+ffmpeg version 4.4.2-0ubuntu0.22.04.1 Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 11 (Ubuntu 11.2.0-19ubuntu1)
+  configuration: --prefix=/usr --extra-version=0ubuntu0.22.04.1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl --disable-stripping --enable-gnutls --enable-ladspa --enable-libaom --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libcodec2 --enable-libdav1d --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libjack --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librabbitmq --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libsrt --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzimg --enable-libzmq --enable-libzvbi --enable-lv2 --enable-omx --enable-openal --enable-opencl --enable-opengl --enable-sdl2 --enable-pocketsphinx --enable-librsvg --enable-libmfx --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libx264 --enable-shared
+  libavutil      56. 70.100 / 56. 70.100
+  libavcodec     58.134.100 / 58.134.100
+  libavformat    58. 76.100 / 58. 76.100
+  libavdevice    58. 13.100 / 58. 13.100
+  libavfilter     7.110.100 /  7.110.100
+  libswscale      5.  9.100 /  5.  9.100
+  libswresample   3.  9.100 /  3.  9.100
+  libpostproc    55.  9.100 / 55.  9.100
+Input #0, flv, from '/storage/32426326/20250706/32426326-20250706-155245-824.flv':
+  Metadata:
+    2.1             : false
+    encoder         : obs-output module (libobs version 31.0.2)
+    7.1             : false
+    displayWidth    : 2560
+    3.1             : false
+    4.0             : false
+    audiochannels   : 2
+    fps             : 60
+    cdn_ip          : 192.168.252.7
+    5.1             : false
+    fileSize        : 0
+    displayHeight   : 1440
+    4.1             : false
+    Title           : 技术主播没有GG
+    Artist          : 蓝音BuBuLine (32426326)
+    Comment         : mikufans直播间 32426326 的直播录像
+                    : 主播名: 蓝音BuBuLine
+                    : 直播标题: 技术主播没有GG
+                    : 直播分区: 单机游戏·主机游戏
+                    : 录制时间: 2025-07-06T15:52:45.8360919+00:00
+                    : 直播服务器:
+                    : d1--ov-gotcha07b.bilivideo.com [156.59.188.247]
+                    : 
+                    : 使用 mikufans录播姬 录制 https://rec.danmuji.org
+                    : 录播姬版本: 2.17.0
+    RecordedBy      : BililiveRecorder mikufans录播姬
+    RecordedFrom    : d1--ov-gotcha07b.bilivideo.com
+    StreamServers   : d1--ov-gotcha07b.bilivideo.com [156.59.188.247]
+    RecorderVersion : 2.17.0+Branch.tags-v2.17.0.Sha.79d60d3b69038634787f3d53faa1124d513cf64a
+    StartTime       : Sun, 06 Jul 2025 15:52:45 +0000
+    RoomId          : 32426326
+    ShortId         : 0
+    Name            : 蓝音BuBuLine
+    StreamTitle     : 技术主播没有GG
+    AreaNameParent  : 单机游戏
+    AreaNameChild   : 主机游戏
+  Duration: 06:37:29.34, start: 0.035000, bitrate: 8607 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 2560x1440 [SAR 1:1 DAR 16:9], 10240 kb/s, 60 fps, 60 tbr, 1k tbn, 120 tbc
+  Stream #0:1: Audio: aac (LC), 48000 Hz, stereo, fltp, 196 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> png (native))
+Press [q] to stop, [?] for help
+Output #0, image2, to '/storage/32426326/20250706/32426326-20250706-131126-390.all.thumb.png':
+  Metadata:
+    2.1             : false
+    AreaNameChild   : 主机游戏
+    7.1             : false
+    displayWidth    : 2560
+    3.1             : false
+    4.0             : false
+    audiochannels   : 2
+    fps             : 60
+    cdn_ip          : 192.168.252.7
+    5.1             : false
+    fileSize        : 0
+    displayHeight   : 1440
+    4.1             : false
+    Title           : 技术主播没有GG
+    Artist          : 蓝音BuBuLine (32426326)
+    Comment         : mikufans直播间 32426326 的直播录像
+                    : 主播名: 蓝音BuBuLine
+                    : 直播标题: 技术主播没有GG
+                    : 直播分区: 单机游戏·主机游戏
+                    : 录制时间: 2025-07-06T15:52:45.8360919+00:00
+                    : 直播服务器:
+                    : d1--ov-gotcha07b.bilivideo.com [156.59.188.247]
+                    : 
+                    : 使用 mikufans录播姬 录制 https://rec.danmuji.org
+                    : 录播姬版本: 2.17.0
+    RecordedBy      : BililiveRecorder mikufans录播姬
+    RecordedFrom    : d1--ov-gotcha07b.bilivideo.com
+    StreamServers   : d1--ov-gotcha07b.bilivideo.com [156.59.188.247]
+    RecorderVersion : 2.17.0+Branch.tags-v2.17.0.Sha.79d60d3b69038634787f3d53faa1124d513cf64a
+    StartTime       : Sun, 06 Jul 2025 15:52:45 +0000
+    RoomId          : 32426326
+    ShortId         : 0
+    Name            : 蓝音BuBuLine
+    StreamTitle     : 技术主播没有GG
+    AreaNameParent  : 单机游戏
+    encoder         : Lavf58.76.100
+  Stream #0:0: Video: png, rgb24(pc, gbr/bt709/bt709, progressive), 2560x1440 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 60 fps, 60 tbn
+    Metadata:
+      encoder         : Lavc58.134.100 png
+frame=    1 fps=0.0 q=0.0 size=N/A time=00:00:00.00 bitrate=N/A speed=   0x    frame=    1 fps=0.0 q=-0.0 Lsize=N/A time=00:00:00.01 bitrate=N/A speed=0.0488x    
+video:608kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: unknown
