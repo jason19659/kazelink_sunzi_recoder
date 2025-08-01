@@ -1,0 +1,133 @@
+/webhook/venv/lib/python3.10/site-packages/danmaku_tools/danmaku_energy_map.py:24: DeprecationWarning: Please import `convolve` from the `scipy.ndimage` namespace; the `scipy.ndimage.filters` namespace is deprecated and will be removed in SciPy 2.0.0.
+  from scipy.ndimage.filters import convolve
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.408 seconds.
+Prefix dict has been built successfully.
+  0%|          | 0/104 [00:00<?, ?it/s]5
+15
+1
+10
+30
+27
+26
+15
+12
+  9%|▊         | 9/104 [00:00<00:01, 87.92it/s]19
+19
+2
+30
+2
+2
+0
+16
+26
+1
+0
+11
+ 20%|██        | 21/104 [00:00<00:00, 104.62it/s]0
+41
+75
+21
+3
+53
+11
+34
+3
+102
+55
+ 31%|███       | 32/104 [00:00<00:01, 52.46it/s] 112
+21
+1
+31
+27
+6
+60
+26
+ 38%|███▊      | 40/104 [00:00<00:01, 44.57it/s]0
+62
+29
+35
+51
+0
+50
+ 45%|████▌     | 47/104 [00:00<00:01, 47.76it/s]57
+55
+0
+8
+19
+2
+ 51%|█████     | 53/104 [00:01<00:01, 46.61it/s]2
+1
+0
+20
+4
+16
+4
+35
+35
+27
+ 61%|██████    | 63/104 [00:01<00:00, 56.63it/s]20
+9
+5
+23
+9
+5
+3
+6
+22
+ 69%|██████▉   | 72/104 [00:01<00:00, 64.48it/s]0
+17
+31
+6
+0
+0
+73
+85
+ 77%|███████▋  | 80/104 [00:01<00:00, 53.05it/s]7
+3
+12
+6
+40
+18
+24
+ 84%|████████▎ | 87/104 [00:01<00:00, 44.03it/s]1
+50
+44
+13
+11
+30
+ 89%|████████▉ | 93/104 [00:01<00:00, 42.79it/s]13
+9
+15
+0
+8
+39
+9
+6
+0
+1
+4
+100%|██████████| 104/104 [00:01<00:00, 53.46it/s]
+
+DanmakuFactory 1.70 CLI Release by hkm (hkm@tikm.org)
+https://github.com/hihkm/DanmakuFactory
+
+Input file(s):
+Number|Template     |TimeShift|FileName
+     1|xml          |   0.000s|/storage/32426326/20250727/32426326-20250727-122022-426.all.clean.xml
+
+Output file:
+Format|FileName
+   ass|/storage/32426326/20250727/32426326-20250727-122022-426.all.ass
+
+Loading files...
+Loading file "/storage/32426326/20250727/32426326-20250727-122022-426.all.clean.xml"
+
+File Loading Complete.. Danmaku Pool: 4610
+
+Sorting...
+
+Writting file "/storage/32426326/20250727/32426326-20250727-122022-426.all.ass"...
+
+Done!
