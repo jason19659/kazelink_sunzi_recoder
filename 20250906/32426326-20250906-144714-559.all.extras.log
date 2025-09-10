@@ -1,0 +1,138 @@
+/webhook/venv/lib/python3.10/site-packages/danmaku_tools/danmaku_energy_map.py:24: DeprecationWarning: Please import `convolve` from the `scipy.ndimage` namespace; the `scipy.ndimage.filters` namespace is deprecated and will be removed in SciPy 2.0.0.
+  from scipy.ndimage.filters import convolve
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.400 seconds.
+Prefix dict has been built successfully.
+  0%|          | 0/109 [00:00<?, ?it/s]2
+0
+18
+8
+27
+6
+1
+15
+1
+11
+59
+ 10%|█         | 11/109 [00:00<00:01, 83.23it/s]39
+0
+25
+45
+0
+16
+2
+112
+31
+ 18%|█▊        | 20/109 [00:00<00:01, 56.86it/s]13
+71
+10
+24
+38
+5
+117
+ 25%|██▍       | 27/109 [00:00<00:01, 43.57it/s]0
+33
+6
+54
+5
+9
+216
+ 31%|███       | 34/109 [00:00<00:02, 35.38it/s]20
+18
+10
+24
+30
+28
+ 37%|███▋      | 40/109 [00:00<00:01, 39.29it/s]3
+3
+9
+1
+4
+36
+13
+28
+0
+15
+ 46%|████▌     | 50/109 [00:01<00:01, 51.67it/s]9
+4
+0
+2
+7
+19
+54
+8
+2
+15
+ 55%|█████▌    | 60/109 [00:01<00:00, 61.75it/s]2
+1
+44
+1
+13
+30
+35
+5
+0
+0
+0
+16
+ 66%|██████▌   | 72/109 [00:01<00:00, 74.75it/s]23
+6
+1
+0
+34
+31
+0
+15
+3
+ 74%|███████▍  | 81/109 [00:01<00:00, 72.89it/s]5
+21
+8
+31
+0
+2
+2
+0
+45
+ 83%|████████▎ | 90/109 [00:01<00:00, 70.63it/s]1
+3
+0
+11
+6
+0
+9
+21
+12
+11
+4
+3
+6
+4
+13
+1
+15
+6
+ 99%|█████████▉| 108/109 [00:01<00:00, 97.82it/s]33
+100%|██████████| 109/109 [00:01<00:00, 66.16it/s]
+
+DanmakuFactory 1.70 CLI Release by hkm (hkm@tikm.org)
+https://github.com/hihkm/DanmakuFactory
+
+Input file(s):
+Number|Template     |TimeShift|FileName
+     1|xml          |   0.000s|/storage/32426326/20250906/32426326-20250906-144714-559.all.clean.xml
+
+Output file:
+Format|FileName
+   ass|/storage/32426326/20250906/32426326-20250906-144714-559.all.ass
+
+Loading files...
+Loading file "/storage/32426326/20250906/32426326-20250906-144714-559.all.clean.xml"
+
+File Loading Complete.. Danmaku Pool: 4255
+
+Sorting...
+
+Writting file "/storage/32426326/20250906/32426326-20250906-144714-559.all.ass"...
+
+Done!

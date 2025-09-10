@@ -1,0 +1,13 @@
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/xml/etree/ElementTree.py", line 757, in _get_writer
+    write = file_or_filename.write
+AttributeError: 'str' object has no attribute 'write'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    
+Traceback (most recent call last):
+
+
