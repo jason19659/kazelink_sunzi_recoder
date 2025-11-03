@@ -1,0 +1,172 @@
+/webhook/venv/lib/python3.10/site-packages/danmaku_tools/danmaku_energy_map.py:24: DeprecationWarning: Please import `convolve` from the `scipy.ndimage` namespace; the `scipy.ndimage.filters` namespace is deprecated and will be removed in SciPy 2.0.0.
+  from scipy.ndimage.filters import convolve
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.548 seconds.
+Prefix dict has been built successfully.
+  0%|          | 0/10 [00:00<?, ?it/s]1
+97
+ 20%|██        | 2/10 [00:00<00:00,  9.37it/s]40
+ 30%|███       | 3/10 [00:00<00:00,  9.45it/s]24
+2
+3
+6
+64
+ 80%|████████  | 8/10 [00:00<00:00, 21.29it/s]57
+91
+100%|██████████| 10/10 [00:00<00:00, 18.46it/s]
+
+DanmakuFactory 1.70 CLI Release by hkm (hkm@tikm.org)
+https://github.com/hihkm/DanmakuFactory
+
+Input file(s):
+Number|Template     |TimeShift|FileName
+     1|xml          |   0.000s|/storage/32426326/20251009/32426326-20251009-144702-450.all.clean.xml
+
+Output file:
+Format|FileName
+   ass|/storage/32426326/20251009/32426326-20251009-144702-450.all.ass
+
+Loading files...
+Loading file "/storage/32426326/20251009/32426326-20251009-144702-450.all.clean.xml"
+
+File Loading Complete.. Danmaku Pool: 772
+
+Sorting...
+
+Writting file "/storage/32426326/20251009/32426326-20251009-144702-450.all.ass"...
+
+Done!
+/webhook/venv/lib/python3.10/site-packages/danmaku_tools/danmaku_energy_map.py:24: DeprecationWarning: Please import `convolve` from the `scipy.ndimage` namespace; the `scipy.ndimage.filters` namespace is deprecated and will be removed in SciPy 2.0.0.
+  from scipy.ndimage.filters import convolve
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/webhook/venv/lib/python3.10/site-packages/danmaku_tools/danmaku_energy_map.py", line 502, in <module>
+    slices = gen_danmaku_slices(xml_list, 1)
+  File "/webhook/venv/lib/python3.10/site-packages/danmaku_tools/danmaku_energy_map.py", line 135, in gen_danmaku_slices
+    slices[int(get_time(child))//interval].append(preprocess_danmaku(child.text))
+IndexError: list index out of range
+
+DanmakuFactory 1.70 CLI Release by hkm (hkm@tikm.org)
+https://github.com/hihkm/DanmakuFactory
+
+Input file(s):
+Number|Template     |TimeShift|FileName
+     1|xml          |   0.000s|/storage/32426326/20251009/32426326-20251009-144702-450.all.clean.xml
+
+Output file:
+Format|FileName
+   ass|/storage/32426326/20251009/32426326-20251009-144702-450.all.ass
+
+Loading files...
+Loading file "/storage/32426326/20251009/32426326-20251009-144702-450.all.clean.xml"
+
+File Loading Complete.. Danmaku Pool: 798
+
+Sorting...
+
+Writting file "/storage/32426326/20251009/32426326-20251009-144702-450.all.ass"...
+
+WARNING
+File "/storage/32426326/20251009/32426326-20251009-144702-450.all.ass" already exists, it will be overwritten when continue.
+
+Skip!
+
+Done!
+/webhook/venv/lib/python3.10/site-packages/danmaku_tools/danmaku_energy_map.py:24: DeprecationWarning: Please import `convolve` from the `scipy.ndimage` namespace; the `scipy.ndimage.filters` namespace is deprecated and will be removed in SciPy 2.0.0.
+  from scipy.ndimage.filters import convolve
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.572 seconds.
+Prefix dict has been built successfully.
+  0%|          | 0/60 [00:00<?, ?it/s]6
+97
+  3%|▎         | 2/60 [00:00<00:06,  8.34it/s]40
+  5%|▌         | 3/60 [00:00<00:06,  8.37it/s]24
+2
+3
+7
+64
+ 13%|█▎        | 8/60 [00:00<00:02, 18.95it/s]57
+129
+ 17%|█▋        | 10/60 [00:00<00:03, 13.90it/s]0
+7
+42
+10
+13
+61
+ 27%|██▋       | 16/60 [00:00<00:02, 20.72it/s]33
+46
+33
+ 32%|███▏      | 19/60 [00:01<00:02, 19.40it/s]37
+3
+35
+48
+ 38%|███▊      | 23/60 [00:01<00:01, 23.17it/s]58
+66
+3
+ 43%|████▎     | 26/60 [00:01<00:01, 19.07it/s]2
+39
+41
+32
+6
+ 52%|█████▏    | 31/60 [00:01<00:01, 25.07it/s]6
+10
+6
+77
+ 58%|█████▊    | 35/60 [00:01<00:00, 28.07it/s]9
+24
+85
+5
+ 65%|██████▌   | 39/60 [00:01<00:00, 30.85it/s]12
+0
+17
+1
+19
+30
+0
+2
+44
+ 80%|████████  | 48/60 [00:01<00:00, 45.57it/s]11
+0
+0
+33
+45
+7
+ 90%|█████████ | 54/60 [00:01<00:00, 48.09it/s]4
+16
+51
+47
+15
+33
+100%|██████████| 60/60 [00:02<00:00, 49.56it/s]100%|██████████| 60/60 [00:02<00:00, 28.86it/s]
+
+DanmakuFactory 1.70 CLI Release by hkm (hkm@tikm.org)
+https://github.com/hihkm/DanmakuFactory
+
+Input file(s):
+Number|Template     |TimeShift|FileName
+     1|xml          |   0.000s|/storage/32426326/20251009/32426326-20251009-144702-450.all.clean.xml
+
+Output file:
+Format|FileName
+   ass|/storage/32426326/20251009/32426326-20251009-144702-450.all.ass
+
+Loading files...
+Loading file "/storage/32426326/20251009/32426326-20251009-144702-450.all.clean.xml"
+
+File Loading Complete.. Danmaku Pool: 3889
+
+Sorting...
+
+Writting file "/storage/32426326/20251009/32426326-20251009-144702-450.all.ass"...
+
+WARNING
+File "/storage/32426326/20251009/32426326-20251009-144702-450.all.ass" already exists, it will be overwritten when continue.
+
+Skip!
+
+Done!

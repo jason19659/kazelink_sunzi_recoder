@@ -1,0 +1,146 @@
+/webhook/venv/lib/python3.10/site-packages/danmaku_tools/danmaku_energy_map.py:24: DeprecationWarning: Please import `convolve` from the `scipy.ndimage` namespace; the `scipy.ndimage.filters` namespace is deprecated and will be removed in SciPy 2.0.0.
+  from scipy.ndimage.filters import convolve
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.381 seconds.
+Prefix dict has been built successfully.
+  0%|          | 0/117 [00:00<?, ?it/s]7
+5
+1
+8
+32
+10
+2
+14
+1
+21
+36
+  9%|▉         | 11/117 [00:00<00:01, 75.35it/s]17
+3
+59
+95
+51
+7
+63
+3
+ 16%|█▌        | 19/117 [00:00<00:02, 43.10it/s]26
+3
+5
+47
+0
+19
+2
+46
+ 23%|██▎       | 27/117 [00:00<00:01, 46.04it/s]15
+6
+64
+37
+4
+8
+18
+42
+ 30%|██▉       | 35/117 [00:00<00:01, 52.56it/s]40
+15
+58
+1
+10
+47
+ 35%|███▌      | 41/117 [00:00<00:01, 53.66it/s]3
+0
+3
+6
+6
+8
+36
+0
+1
+7
+1
+20
+0
+2
+1
+6
+36
+ 50%|████▉     | 58/117 [00:00<00:00, 84.13it/s]28
+4
+29
+30
+25
+19
+22
+0
+2
+7
+ 58%|█████▊    | 68/117 [00:01<00:00, 81.70it/s]25
+3
+41
+0
+0
+7
+19
+39
+3
+20
+1
+20
+ 68%|██████▊   | 80/117 [00:01<00:00, 89.46it/s]7
+8
+1
+2
+1
+17
+1
+0
+0
+19
+72
+7
+0
+26
+ 80%|████████  | 94/117 [00:01<00:00, 101.44it/s]0
+3
+1
+9
+6
+3
+12
+11
+24
+9
+16
+ 90%|████████▉ | 105/117 [00:01<00:00, 102.99it/s]22
+2
+1
+7
+1
+7
+11
+3
+0
+0
+2
+18
+100%|██████████| 117/117 [00:01<00:00, 83.80it/s] 
+
+DanmakuFactory 1.70 CLI Release by hkm (hkm@tikm.org)
+https://github.com/hihkm/DanmakuFactory
+
+Input file(s):
+Number|Template     |TimeShift|FileName
+     1|xml          |   0.000s|/storage/32426326/20250929/32426326-20250929-151102-022.all.clean.xml
+
+Output file:
+Format|FileName
+   ass|/storage/32426326/20250929/32426326-20250929-151102-022.all.ass
+
+Loading files...
+Loading file "/storage/32426326/20250929/32426326-20250929-151102-022.all.clean.xml"
+
+File Loading Complete.. Danmaku Pool: 3771
+
+Sorting...
+
+Writting file "/storage/32426326/20250929/32426326-20250929-151102-022.all.ass"...
+
+Done!

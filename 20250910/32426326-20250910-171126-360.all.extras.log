@@ -1,0 +1,51 @@
+/webhook/venv/lib/python3.10/site-packages/danmaku_tools/danmaku_energy_map.py:24: DeprecationWarning: Please import `convolve` from the `scipy.ndimage` namespace; the `scipy.ndimage.filters` namespace is deprecated and will be removed in SciPy 2.0.0.
+  from scipy.ndimage.filters import convolve
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.442 seconds.
+Prefix dict has been built successfully.
+  0%|          | 0/44 [00:00<?, ?it/s]18
+1
+4
+9
+7
+24
+29
+13
+ 18%|█▊        | 8/44 [00:00<00:00, 75.24it/s]13
+2
+0
+7
+0
+0
+37
+14
+23
+31
+ 41%|████      | 18/44 [00:00<00:00, 85.39it/s]51
+2
+4
+24
+38
+28
+55
+21
+43
+ 61%|██████▏   | 27/44 [00:00<00:00, 60.97it/s]11
+48
+52
+68
+18
+48
+36
+ 77%|███████▋  | 34/44 [00:00<00:00, 48.11it/s]40
+45
+16
+16
+41
+43
+ 91%|█████████ | 40/44 [00:00<00:00, 43.55it/s]48
+18
+33
+23
+100%|██████████| 44/44 [00:00<00:00, 49.50it/s]

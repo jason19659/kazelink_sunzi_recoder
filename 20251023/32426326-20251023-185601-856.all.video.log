@@ -1,0 +1,115 @@
+ffmpeg version 4.4.2-0ubuntu0.22.04.1 Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 11 (Ubuntu 11.2.0-19ubuntu1)
+  configuration: --prefix=/usr --extra-version=0ubuntu0.22.04.1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl --disable-stripping --enable-gnutls --enable-ladspa --enable-libaom --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libcodec2 --enable-libdav1d --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libjack --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librabbitmq --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libsrt --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzimg --enable-libzmq --enable-libzvbi --enable-lv2 --enable-omx --enable-openal --enable-opencl --enable-opengl --enable-sdl2 --enable-pocketsphinx --enable-librsvg --enable-libmfx --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libx264 --enable-shared
+  libavutil      56. 70.100 / 56. 70.100
+  libavcodec     58.134.100 / 58.134.100
+  libavformat    58. 76.100 / 58. 76.100
+  libavdevice    58. 13.100 / 58. 13.100
+  libavfilter     7.110.100 /  7.110.100
+  libswscale      5.  9.100 /  5.  9.100
+  libswresample   3.  9.100 /  3.  9.100
+  libpostproc    55.  9.100 / 55.  9.100
+Input #0, flv, from '/storage/32426326/20251023/32426326-20251023-185601-856.flv':
+  Metadata:
+    cascadeID       : /[86796][7713536]/[86796][7713534]/[110776][7713908]/[110776][7713906]/[50270][1811256]/[50270][1811254]/[43878][1675928]/[43878][1675926]
+    encoder         : obs-output module (libobs versi,BILIAVC.2.1.0.live
+    displayWidth    : 1920
+    cascadeTs       : /1761245468811/1761245468811/1761245469080/1761245469080/1761245469105/1761245469105/1761245468879/1761245468879
+    cdn_ip          : 192.168.252.3
+    fps             : 60
+    server_version  : 2.0.209/1761117489874
+    displayHeight   : 1080
+    Title           : 技术主播没有GG
+    Artist          : 蓝音BuBuLine (32426326)
+    Comment         : mikufans直播间 32426326 的直播录像
+                    : 主播名: 蓝音BuBuLine
+                    : 直播标题: 技术主播没有GG
+                    : 直播分区: 单机游戏·主机游戏
+                    : 录制时间: 2025-10-23T18:56:01.9427792+00:00
+                    : 直播服务器:
+                    : d1--ov-gotcha07b.bilivideo.com [156.59.188.243]
+                    : 
+                    : 使用 mikufans录播姬 录制 https://rec.danmuji.org
+                    : 录播姬版本: 2.17.3
+    RecordedBy      : BililiveRecorder mikufans录播姬
+    RecordedFrom    : d1--ov-gotcha07b.bilivideo.com
+    StreamServers   : d1--ov-gotcha07b.bilivideo.com [156.59.188.243]
+    RecorderVersion : 2.17.3+Branch.tags-v2.17.3.Sha.96407e2eba9a597dd9997c6fb731725f4294a371
+    StartTime       : Thu, 23 Oct 2025 18:56:01 +0000
+    RoomId          : 32426326
+    ShortId         : 0
+    Name            : 蓝音BuBuLine
+    StreamTitle     : 技术主播没有GG
+    AreaNameParent  : 单机游戏
+    AreaNameChild   : 主机游戏
+  Duration: 00:33:31.67, start: 0.004000, bitrate: 8565 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080, 710 kb/s, 60 fps, 60 tbr, 1k tbn, 120 tbc
+  Stream #0:1: Audio: aac (LC), 48000 Hz, stereo, fltp, 192 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> png (native))
+Press [q] to stop, [?] for help
+Output #0, image2, to '/storage/32426326/20251023/32426326-20251023-185601-856.all.thumb.png':
+  Metadata:
+    cascadeID       : /[86796][7713536]/[86796][7713534]/[110776][7713908]/[110776][7713906]/[50270][1811256]/[50270][1811254]/[43878][1675928]/[43878][1675926]
+    AreaNameChild   : 主机游戏
+    displayWidth    : 1920
+    cascadeTs       : /1761245468811/1761245468811/1761245469080/1761245469080/1761245469105/1761245469105/1761245468879/1761245468879
+    cdn_ip          : 192.168.252.3
+    fps             : 60
+    server_version  : 2.0.209/1761117489874
+    displayHeight   : 1080
+    Title           : 技术主播没有GG
+    Artist          : 蓝音BuBuLine (32426326)
+    Comment         : mikufans直播间 32426326 的直播录像
+                    : 主播名: 蓝音BuBuLine
+                    : 直播标题: 技术主播没有GG
+                    : 直播分区: 单机游戏·主机游戏
+                    : 录制时间: 2025-10-23T18:56:01.9427792+00:00
+                    : 直播服务器:
+                    : d1--ov-gotcha07b.bilivideo.com [156.59.188.243]
+                    : 
+                    : 使用 mikufans录播姬 录制 https://rec.danmuji.org
+                    : 录播姬版本: 2.17.3
+    RecordedBy      : BililiveRecorder mikufans录播姬
+    RecordedFrom    : d1--ov-gotcha07b.bilivideo.com
+    StreamServers   : d1--ov-gotcha07b.bilivideo.com [156.59.188.243]
+    RecorderVersion : 2.17.3+Branch.tags-v2.17.3.Sha.96407e2eba9a597dd9997c6fb731725f4294a371
+    StartTime       : Thu, 23 Oct 2025 18:56:01 +0000
+    RoomId          : 32426326
+    ShortId         : 0
+    Name            : 蓝音BuBuLine
+    StreamTitle     : 技术主播没有GG
+    AreaNameParent  : 单机游戏
+    encoder         : Lavf58.76.100
+  Stream #0:0: Video: png, rgb24(pc, gbr/bt709/bt709, progressive), 1920x1080, q=2-31, 200 kb/s, 60 fps, 60 tbn
+    Metadata:
+      encoder         : Lavc58.134.100 png
+frame=    1 fps=0.0 q=0.0 size=N/A time=00:00:00.00 bitrate=N/A dup=1 drop=0 speed=   0x    frame=    1 fps=0.0 q=-0.0 Lsize=N/A time=00:00:00.01 bitrate=N/A dup=1 drop=1 speed=0.0897x    
+video:2077kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: unknown
+ffmpeg version 4.4.2-0ubuntu0.22.04.1 Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 11 (Ubuntu 11.2.0-19ubuntu1)
+  configuration: --prefix=/usr --extra-version=0ubuntu0.22.04.1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl --disable-stripping --enable-gnutls --enable-ladspa --enable-libaom --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libcodec2 --enable-libdav1d --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libjack --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librabbitmq --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libsrt --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzimg --enable-libzmq --enable-libzvbi --enable-lv2 --enable-omx --enable-openal --enable-opencl --enable-opengl --enable-sdl2 --enable-pocketsphinx --enable-librsvg --enable-libmfx --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libx264 --enable-shared
+  libavutil      56. 70.100 / 56. 70.100
+  libavcodec     58.134.100 / 58.134.100
+  libavformat    58. 76.100 / 58. 76.100
+  libavdevice    58. 13.100 / 58. 13.100
+  libavfilter     7.110.100 /  7.110.100
+  libswscale      5.  9.100 /  5.  9.100
+  libswresample   3.  9.100 /  3.  9.100
+  libpostproc    55.  9.100 / 55.  9.100
+[flv @ 0x5c170a8c5400] Auto-inserting h264_mp4toannexb bitstream filter
+Input #0, concat, from '/storage/32426326/20251023/32426326-20251023-185601-856.all.concat.txt':
+  Duration: N/A, start: 0.000000, bitrate: 902 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080, 710 kb/s, 60 fps, 60 tbr, 1k tbn, 120 tbc
+  Stream #0:1: Audio: aac (LC), 48000 Hz, stereo, fltp, 192 kb/s
+Output #0, flv, to '/storage/32426326/20251023/32426326-20251023-185601-856.all.flv':
+  Metadata:
+    encoder         : Lavf58.76.100
+  Stream #0:0: Video: h264 (High) ([7][0][0][0] / 0x0007), yuv420p(tv, bt709, progressive), 1920x1080, q=2-31, 710 kb/s, 60 fps, 60 tbr, 1k tbn, 1k tbc
+  Stream #0:1: Audio: aac (LC) ([10][0][0][0] / 0x000A), 48000 Hz, stereo, fltp, 192 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+  Stream #0:1 -> #0:1 (copy)
+Press [q] to stop, [?] for help
+frame=    1 fps=0.0 q=-1.0 size=       0kB time=00:00:00.00 bitrate=N/A speed=N/A    frame= 1846 fps=0.0 q=-1.0 size=   46080kB time=00:00:39.29 bitrate=9607.5kbits/s speed=78.6x    frame= 3904 fps=3903 q=-1.0 size=   91392kB time=00:01:18.10 bitrate=9585.4kbits/s speed=78.1x    frame= 6169 fps=4110 q=-1.0 size=  136448kB time=00:01:56.19 bitrate=9620.2kbits/s speed=77.4x    frame= 8266 fps=4129 q=-1.0 size=  182016kB time=00:02:38.10 bitrate=9430.8kbits/s speed=  79x    frame=10684 fps=4269 q=-1.0 size=  225792kB time=00:03:21.80 bitrate=9165.6kbits/s speed=80.6x    frame=13898 fps=4627 q=-1.0 size=  270336kB time=00:04:19.95 bitrate=8519.1kbits/s speed=86.5x    frame=16320 fps=4658 q=-1.0 size=  315392kB time=00:05:03.91 bitrate=8501.4kbits/s speed=86.7x    frame=19638 fps=4904 q=-1.0 size=  358912kB time=00:06:05.25 bitrate=8049.7kbits/s speed=91.2x    frame=22182 fps=4924 q=-1.0 size=  406272kB time=00:06:51.71 bitrate=8083.8kbits/s speed=91.4x    frame=24390 fps=4873 q=-1.0 size=  452608kB time=00:07:32.50 bitrate=8193.8kbits/s speed=90.4x    frame=26727 fps=4854 q=-1.0 size=  497920kB time=00:08:14.52 bitrate=8248.3kbits/s speed=89.8x    frame=28979 fps=4824 q=-1.0 size=  542720kB time=00:08:57.17 bitrate=8276.6kbits/s speed=89.4x    frame=31079 fps=4776 q=-1.0 size=  587776kB time=00:09:34.22 bitrate=8385.3kbits/s speed=88.2x    frame=33082 fps=4720 q=-1.0 size=  630528kB time=00:10:10.45 bitrate=8461.3kbits/s speed=87.1x    frame=35176 fps=4684 q=-1.0 size=  673536kB time=00:10:48.72 bitrate=8505.3kbits/s speed=86.4x    frame=37695 fps=4706 q=-1.0 size=  715264kB time=00:11:32.22 bitrate=8464.7kbits/s speed=86.4x    frame=40449 fps=4754 q=-1.0 size=  756992kB time=00:12:19.70 bitrate=8383.4kbits/s speed=86.9x    frame=42562 fps=4724 q=-1.0 size=  796160kB time=00:12:54.93 bitrate=8416.4kbits/s speed=  86x    frame=44618 fps=4692 q=-1.0 size=  835584kB time=00:13:30.05 bitrate=8450.2kbits/s speed=85.2x    frame=47629 fps=4758 q=-1.0 size=  876032kB time=00:14:23.24 bitrate=8313.4kbits/s speed=86.2x    frame=50291 fps=4785 q=-1.0 size=  918528kB time=00:15:11.27 bitrate=8257.2kbits/s speed=86.7x    frame=52296 fps=4750 q=-1.0 size=  961536kB time=00:15:50.10 bitrate=8290.5kbits/s speed=86.3x    frame=54188 fps=4708 q=-1.0 size= 1004800kB time=00:16:27.17 bitrate=8338.2kbits/s speed=85.8x    frame=56261 fps=4684 q=-1.0 size= 1048320kB time=00:17:05.29 bitrate=8376.0kbits/s speed=85.4x    frame=58468 fps=4673 q=-1.0 size= 1092608kB time=00:17:42.07 bitrate=8427.5kbits/s speed=84.9x    frame=60485 fps=4648 q=-1.0 size= 1136384kB time=00:18:18.07 bitrate=8477.8kbits/s speed=84.4x    frame=62400 fps=4618 q=-1.0 size= 1177856kB time=00:18:53.09 bitrate=8515.6kbits/s speed=83.9x    frame=64281 fps=4587 q=-1.0 size= 1218304kB time=00:19:27.40 bitrate=8549.2kbits/s speed=83.3x    frame=66113 fps=4555 q=-1.0 size= 1259008kB time=00:20:01.27 bitrate=8585.7kbits/s speed=82.8x    frame=68298 fps=4549 q=-1.0 size= 1303040kB time=00:20:39.97 bitrate=8608.6kbits/s speed=82.6x    frame=70308 fps=4532 q=-1.0 size= 1342464kB time=00:21:13.92 bitrate=8632.7kbits/s speed=82.1x    frame=72191 fps=4508 q=-1.0 size= 1381888kB time=00:21:50.52 bitrate=8638.1kbits/s speed=81.8x    frame=74389 fps=4504 q=-1.0 size= 1423360kB time=00:22:30.82 bitrate=8631.9kbits/s speed=81.8x    frame=76942 fps=4522 q=-1.0 size= 1468160kB time=00:23:18.89 bitrate=8597.6kbits/s speed=82.2x    frame=79102 fps=4516 q=-1.0 size= 1512448kB time=00:23:55.95 bitrate=8628.4kbits/s speed=  82x    frame=81483 fps=4523 q=-1.0 size= 1556480kB time=00:24:37.65 bitrate=8629.0kbits/s speed=  82x    frame=83878 fps=4530 q=-1.0 size= 1600768kB time=00:25:19.12 bitrate=8632.3kbits/s speed=  82x    frame=86597 fps=4554 q=-1.0 size= 1644544kB time=00:26:07.95 bitrate=8592.1kbits/s speed=82.5x    frame=89211 fps=4571 q=-1.0 size= 1689600kB time=00:26:54.70 bitrate=8572.0kbits/s speed=82.7x    frame=91455 fps=4569 q=-1.0 size= 1734144kB time=00:27:34.71 bitrate=8585.2kbits/s speed=82.7x    frame=93864 fps=4575 q=-1.0 size= 1778688kB time=00:28:16.65 bitrate=8588.1kbits/s speed=82.7x    frame=96238 fps=4579 q=-1.0 size= 1822208kB time=00:29:01.45 bitrate=8571.9kbits/s speed=82.9x    frame=98400 fps=4573 q=-1.0 size= 1868032kB time=00:29:40.40 bitrate=8595.2kbits/s speed=82.7x    frame=100402 fps=4560 q=-1.0 size= 1912576kB time=00:30:18.60 bitrate=8615.3kbits/s speed=82.6x    frame=102509 fps=4552 q=-1.0 size= 1957120kB time=00:30:56.14 bitrate=8637.6kbits/s speed=82.4x    frame=104639 fps=4546 q=-1.0 size= 2001920kB time=00:31:34.57 bitrate=8656.2kbits/s speed=82.3x    frame=107627 fps=4576 q=-1.0 size= 2046976kB time=00:32:28.02 bitrate=8608.1kbits/s speed=82.8x    frame=110481 fps=4600 q=-1.0 size= 2090496kB time=00:33:20.79 bitrate=8559.3kbits/s speed=83.3x    frame=111065 fps=4597 q=-1.0 Lsize= 2103266kB time=00:33:31.66 bitrate=8565.0kbits/s speed=83.3x    
+video:2051954kB audio:47575kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.177941%
