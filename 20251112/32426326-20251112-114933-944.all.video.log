@@ -1,0 +1,117 @@
+ffmpeg version 4.4.2-0ubuntu0.22.04.1 Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 11 (Ubuntu 11.2.0-19ubuntu1)
+  configuration: --prefix=/usr --extra-version=0ubuntu0.22.04.1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl --disable-stripping --enable-gnutls --enable-ladspa --enable-libaom --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libcodec2 --enable-libdav1d --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libjack --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librabbitmq --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libsrt --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzimg --enable-libzmq --enable-libzvbi --enable-lv2 --enable-omx --enable-openal --enable-opencl --enable-opengl --enable-sdl2 --enable-pocketsphinx --enable-librsvg --enable-libmfx --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libx264 --enable-shared
+  libavutil      56. 70.100 / 56. 70.100
+  libavcodec     58.134.100 / 58.134.100
+  libavformat    58. 76.100 / 58. 76.100
+  libavdevice    58. 13.100 / 58. 13.100
+  libavfilter     7.110.100 /  7.110.100
+  libswscale      5.  9.100 /  5.  9.100
+  libswresample   3.  9.100 /  3.  9.100
+  libpostproc    55.  9.100 / 55.  9.100
+Input #0, flv, from '/storage/32426326/20251112/32426326-20251112-115536-759.flv':
+  Metadata:
+    cascadeTs       : /1762948532143/1762948532143/1762948531521/1762948531521/1762948532447/1762948532447/1762948532270/1762948532270
+    displayWidth    : 1080
+    encoder         : iPhone 17 Pro Max/26.0.1/3.6.3 哔哩哔哩/8.62.0
+    displayHeight   : 1920
+    cascadeID       : /[62619][18949582]/[62619][18949579]/[48299][18754221]/[48299][18754219]/[51643][5777650]/[51643][5777647]/[12045][5540309]/[12045][5540307]
+    cdn_ip          : 192.168.252.3
+    fps             : 25
+    server_version  : 2.0.209/1762481961821
+    Title           : 技术主播没有GG
+    Artist          : 蓝音BuBuLine (32426326)
+    Comment         : mikufans直播间 32426326 的直播录像
+                    : 主播名: 蓝音BuBuLine
+                    : 直播标题: 技术主播没有GG
+                    : 直播分区: 单机游戏·主机游戏
+                    : 录制时间: 2025-11-12T11:55:36.7690676+00:00
+                    : 直播服务器:
+                    : d1--ov-gotcha07b.bilivideo.com [156.59.188.243]
+                    : 
+                    : 使用 mikufans录播姬 录制 https://rec.danmuji.org
+                    : 录播姬版本: 2.17.3
+    RecordedBy      : BililiveRecorder mikufans录播姬
+    RecordedFrom    : d1--ov-gotcha07b.bilivideo.com
+    StreamServers   : d1--ov-gotcha07b.bilivideo.com [156.59.188.243]
+    RecorderVersion : 2.17.3+Branch.tags-v2.17.3.Sha.96407e2eba9a597dd9997c6fb731725f4294a371
+    StartTime       : Wed, 12 Nov 2025 11:55:36 +0000
+    RoomId          : 32426326
+    ShortId         : 0
+    Name            : 蓝音BuBuLine
+    StreamTitle     : 技术主播没有GG
+    AreaNameParent  : 单机游戏
+    AreaNameChild   : 主机游戏
+  Duration: 01:45:24.08, start: 0.000000, bitrate: 5118 kb/s
+  Stream #0:0: Video: h264 (Main), yuv420p(tv, bt709, progressive), 1080x1920, 5120 kb/s, 25 fps, 25 tbr, 1k tbn
+  Stream #0:1: Audio: aac (LC), 48000 Hz, stereo, fltp, 131 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> png (native))
+Press [q] to stop, [?] for help
+Output #0, image2, to '/storage/32426326/20251112/32426326-20251112-114933-944.all.thumb.png':
+  Metadata:
+    cascadeTs       : /1762948532143/1762948532143/1762948531521/1762948531521/1762948532447/1762948532447/1762948532270/1762948532270
+    displayWidth    : 1080
+    AreaNameChild   : 主机游戏
+    displayHeight   : 1920
+    cascadeID       : /[62619][18949582]/[62619][18949579]/[48299][18754221]/[48299][18754219]/[51643][5777650]/[51643][5777647]/[12045][5540309]/[12045][5540307]
+    cdn_ip          : 192.168.252.3
+    fps             : 25
+    server_version  : 2.0.209/1762481961821
+    Title           : 技术主播没有GG
+    Artist          : 蓝音BuBuLine (32426326)
+    Comment         : mikufans直播间 32426326 的直播录像
+                    : 主播名: 蓝音BuBuLine
+                    : 直播标题: 技术主播没有GG
+                    : 直播分区: 单机游戏·主机游戏
+                    : 录制时间: 2025-11-12T11:55:36.7690676+00:00
+                    : 直播服务器:
+                    : d1--ov-gotcha07b.bilivideo.com [156.59.188.243]
+                    : 
+                    : 使用 mikufans录播姬 录制 https://rec.danmuji.org
+                    : 录播姬版本: 2.17.3
+    RecordedBy      : BililiveRecorder mikufans录播姬
+    RecordedFrom    : d1--ov-gotcha07b.bilivideo.com
+    StreamServers   : d1--ov-gotcha07b.bilivideo.com [156.59.188.243]
+    RecorderVersion : 2.17.3+Branch.tags-v2.17.3.Sha.96407e2eba9a597dd9997c6fb731725f4294a371
+    StartTime       : Wed, 12 Nov 2025 11:55:36 +0000
+    RoomId          : 32426326
+    ShortId         : 0
+    Name            : 蓝音BuBuLine
+    StreamTitle     : 技术主播没有GG
+    AreaNameParent  : 单机游戏
+    encoder         : Lavf58.76.100
+  Stream #0:0: Video: png, rgb24(pc, gbr/bt709/bt709, progressive), 1080x1920, q=2-31, 200 kb/s, 25 fps, 25 tbn
+    Metadata:
+      encoder         : Lavc58.134.100 png
+frame=    1 fps=0.0 q=0.0 size=N/A time=00:00:00.00 bitrate=N/A dup=1 drop=0 speed=   0x    frame=    1 fps=0.0 q=-0.0 Lsize=N/A time=00:00:00.04 bitrate=N/A dup=1 drop=1 speed= 0.2x    
+video:3100kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: unknown
+ffmpeg version 4.4.2-0ubuntu0.22.04.1 Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 11 (Ubuntu 11.2.0-19ubuntu1)
+  configuration: --prefix=/usr --extra-version=0ubuntu0.22.04.1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl --disable-stripping --enable-gnutls --enable-ladspa --enable-libaom --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libcodec2 --enable-libdav1d --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libjack --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librabbitmq --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libsrt --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzimg --enable-libzmq --enable-libzvbi --enable-lv2 --enable-omx --enable-openal --enable-opencl --enable-opengl --enable-sdl2 --enable-pocketsphinx --enable-librsvg --enable-libmfx --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libx264 --enable-shared
+  libavutil      56. 70.100 / 56. 70.100
+  libavcodec     58.134.100 / 58.134.100
+  libavformat    58. 76.100 / 58. 76.100
+  libavdevice    58. 13.100 / 58. 13.100
+  libavfilter     7.110.100 /  7.110.100
+  libswscale      5.  9.100 /  5.  9.100
+  libswresample   3.  9.100 /  3.  9.100
+  libpostproc    55.  9.100 / 55.  9.100
+[h264 @ 0x61dbd9252180] Increasing reorder buffer to 2
+[flv @ 0x61dbd924f740] Auto-inserting h264_mp4toannexb bitstream filter
+Input #0, concat, from '/storage/32426326/20251112/32426326-20251112-114933-944.all.concat.txt':
+  Duration: N/A, start: 0.000000, bitrate: 5251 kb/s
+  Stream #0:0: Video: h264 (Main), yuv420p(tv, bt709, progressive), 1080x1920, 5120 kb/s, 25 fps, 25 tbr, 1k tbn, 2k tbc
+  Stream #0:1: Audio: aac (LC), 48000 Hz, stereo, fltp, 131 kb/s
+Output #0, flv, to '/storage/32426326/20251112/32426326-20251112-114933-944.all.flv':
+  Metadata:
+    encoder         : Lavf58.76.100
+  Stream #0:0: Video: h264 (Main) ([7][0][0][0] / 0x0007), yuv420p(tv, bt709, progressive), 1080x1920, q=2-31, 5120 kb/s, 25 fps, 25 tbr, 1k tbn, 1k tbc
+  Stream #0:1: Audio: aac (LC) ([10][0][0][0] / 0x000A), 48000 Hz, stereo, fltp, 131 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+  Stream #0:1 -> #0:1 (copy)
+Press [q] to stop, [?] for help
+frame=    1 fps=0.0 q=-1.0 size=       0kB time=00:00:00.00 bitrate=N/A speed=N/A    frame= 1552 fps=0.0 q=-1.0 size=   38656kB time=00:01:02.03 bitrate=5104.5kbits/s speed= 124x    frame= 2643 fps=2642 q=-1.0 size=   66048kB time=00:01:45.68 bitrate=5119.6kbits/s speed= 106x    frame= 3723 fps=2481 q=-1.0 size=   92928kB time=00:02:28.88 bitrate=5113.1kbits/s speed=99.2x    frame= 4792 fps=2395 q=-1.0 size=  119808kB time=00:03:11.63 bitrate=5121.5kbits/s speed=95.8x    frame= 5877 fps=2350 q=-1.0 size=  146944kB time=00:03:55.05 bitrate=5121.3kbits/s speed=  94x    frame= 6990 fps=2329 q=-1.0 size=  174848kB time=00:04:39.59 bitrate=5123.0kbits/s speed=93.1x    frame= 8101 fps=2313 q=-1.0 size=  202752kB time=00:05:24.03 bitrate=5125.9kbits/s speed=92.5x    [flv @ 0x61dbd9250480] Auto-inserting h264_mp4toannexb bitstream filter
+frame= 9108 fps=2276 q=-1.0 size=  227840kB time=00:06:04.64 bitrate=5118.6kbits/s speed=91.1x    frame=10499 fps=2332 q=-1.0 size=  262656kB time=00:07:00.57 bitrate=5116.0kbits/s speed=93.4x    frame=11879 fps=2375 q=-1.0 size=  297216kB time=00:07:55.79 bitrate=5117.4kbits/s speed=95.1x    frame=13323 fps=2421 q=-1.0 size=  333568kB time=00:08:53.58 bitrate=5121.2kbits/s speed=96.9x    frame=14718 fps=2451 q=-1.0 size=  368384kB time=00:09:49.36 bitrate=5120.4kbits/s speed=98.2x    frame=16130 fps=2479 q=-1.0 size=  403712kB time=00:10:45.85 bitrate=5120.6kbits/s speed=99.3x    frame=17584 fps=2510 q=-1.0 size=  440064kB time=00:11:44.01 bitrate=5120.6kbits/s speed= 100x    frame=18996 fps=2530 q=-1.0 size=  475392kB time=00:12:40.50 bitrate=5120.8kbits/s speed= 101x    frame=20468 fps=2556 q=-1.0 size=  512000kB time=00:13:39.36 bitrate=5119.0kbits/s speed= 102x    frame=21934 fps=2578 q=-1.0 size=  548864kB time=00:14:37.98 bitrate=5121.1kbits/s speed= 103x    frame=23355 fps=2593 q=-1.0 size=  584448kB time=00:15:34.86 bitrate=5121.4kbits/s speed= 104x    frame=24790 fps=2607 q=-1.0 size=  620288kB time=00:16:32.22 bitrate=5121.2kbits/s speed= 104x    frame=26245 fps=2622 q=-1.0 size=  656640kB time=00:17:30.44 bitrate=5120.9kbits/s speed= 105x    frame=27711 fps=2637 q=-1.0 size=  693248kB time=00:18:29.09 bitrate=5120.5kbits/s speed= 106x    frame=29170 fps=2650 q=-1.0 size=  729856kB time=00:19:27.45 bitrate=5121.4kbits/s speed= 106x    frame=30623 fps=2661 q=-1.0 size=  765952kB time=00:20:25.55 bitrate=5119.9kbits/s speed= 106x    frame=32048 fps=2668 q=-1.0 size=  801792kB time=00:21:22.57 bitrate=5121.2kbits/s speed= 107x    frame=33443 fps=2673 q=-1.0 size=  836864kB time=00:22:18.42 bitrate=5122.1kbits/s speed= 107x    frame=34893 fps=2682 q=-1.0 size=  872960kB time=00:23:16.38 bitrate=5121.3kbits/s speed= 107x    frame=36339 fps=2690 q=-1.0 size=  909312kB time=00:24:14.24 bitrate=5122.3kbits/s speed= 108x    frame=37800 fps=2698 q=-1.0 size=  945920kB time=00:25:12.69 bitrate=5122.6kbits/s speed= 108x    frame=39232 fps=2703 q=-1.0 size=  981760kB time=00:26:09.97 bitrate=5122.7kbits/s speed= 108x    frame=40624 fps=2706 q=-1.0 size= 1016832kB time=00:27:05.63 bitrate=5124.1kbits/s speed= 108x    frame=42005 fps=2708 q=-1.0 size= 1051392kB time=00:28:01.35 bitrate=5122.6kbits/s speed= 108x    frame=43452 fps=2714 q=-1.0 size= 1086976kB time=00:28:59.25 bitrate=5119.7kbits/s speed= 109x    frame=44853 fps=2716 q=-1.0 size= 1122048kB time=00:29:55.29 bitrate=5119.9kbits/s speed= 109x    frame=46266 fps=2719 q=-1.0 size= 1157376kB time=00:30:51.81 bitrate=5120.0kbits/s speed= 109x    frame=47755 fps=2727 q=-1.0 size= 1194496kB time=00:31:51.35 bitrate=5119.6kbits/s speed= 109x    frame=49193 fps=2731 q=-1.0 size= 1230592kB time=00:32:48.86 bitrate=5120.2kbits/s speed= 109x    frame=50538 fps=2730 q=-1.0 size= 1264128kB time=00:33:42.67 bitrate=5119.8kbits/s speed= 109x    frame=51917 fps=2730 q=-1.0 size= 1298432kB time=00:34:37.83 bitrate=5119.1kbits/s speed= 109x    frame=53311 fps=2732 q=-1.0 size= 1333504kB time=00:35:33.60 bitrate=5120.0kbits/s speed= 109x    frame=54743 fps=2735 q=-1.0 size= 1369344kB time=00:36:30.90 bitrate=5120.1kbits/s speed= 109x    frame=56196 fps=2739 q=-1.0 size= 1405440kB time=00:37:29.03 bitrate=5119.2kbits/s speed= 110x    frame=57620 fps=2742 q=-1.0 size= 1441280kB time=00:38:26.01 bitrate=5120.1kbits/s speed= 110x    frame=59043 fps=2744 q=-1.0 size= 1476864kB time=00:39:22.91 bitrate=5120.1kbits/s speed= 110x    frame=60486 fps=2747 q=-1.0 size= 1512960kB time=00:40:20.66 bitrate=5120.2kbits/s speed= 110x    frame=61936 fps=2750 q=-1.0 size= 1549312kB time=00:41:18.64 bitrate=5120.5kbits/s speed= 110x    frame=63349 fps=2752 q=-1.0 size= 1584896kB time=00:42:15.16 bitrate=5121.4kbits/s speed= 110x    frame=64786 fps=2755 q=-1.0 size= 1620480kB time=00:43:12.63 bitrate=5120.3kbits/s speed= 110x    frame=66242 fps=2758 q=-1.0 size= 1657088kB time=00:44:10.89 bitrate=5120.9kbits/s speed= 110x    frame=67696 fps=2761 q=-1.0 size= 1693440kB time=00:45:09.04 bitrate=5120.9kbits/s speed= 110x    frame=69156 fps=2764 q=-1.0 size= 1730048kB time=00:46:07.45 bitrate=5121.1kbits/s speed= 111x    frame=70623 fps=2767 q=-1.0 size= 1766656kB time=00:47:06.12 bitrate=5120.9kbits/s speed= 111x    frame=72087 fps=2770 q=-1.0 size= 1803264kB time=00:48:04.66 bitrate=5121.0kbits/s speed= 111x    frame=73548 fps=2773 q=-1.0 size= 1839872kB time=00:49:03.13 bitrate=5121.1kbits/s speed= 111x    frame=75001 fps=2775 q=-1.0 size= 1876224kB time=00:50:01.25 bitrate=5121.2kbits/s speed= 111x    frame=76434 fps=2777 q=-1.0 size= 1912064kB time=00:50:58.57 bitrate=5121.2kbits/s speed= 111x    frame=77897 fps=2779 q=-1.0 size= 1948672kB time=00:51:57.09 bitrate=5121.3kbits/s speed= 111x    frame=79324 fps=2781 q=-1.0 size= 1984512kB time=00:52:54.22 bitrate=5121.6kbits/s speed= 111x    frame=80804 fps=2784 q=-1.0 size= 2021376kB time=00:53:53.42 bitrate=5121.2kbits/s speed= 111x    frame=82246 fps=2785 q=-1.0 size= 2057216kB time=00:54:51.06 bitrate=5120.7kbits/s speed= 111x    frame=83721 fps=2788 q=-1.0 size= 2094336kB time=00:55:50.09 bitrate=5121.3kbits/s speed= 112x    frame=85164 fps=2789 q=-1.0 size= 2130432kB time=00:56:47.82 bitrate=5121.3kbits/s speed= 112x    frame=86602 fps=2791 q=-1.0 size= 2166528kB time=00:57:45.33 bitrate=5121.6kbits/s speed= 112x    frame=88084 fps=2793 q=-1.0 size= 2203392kB time=00:58:44.62 bitrate=5121.2kbits/s speed= 112x    frame=89524 fps=2795 q=-1.0 size= 2239488kB time=00:59:42.22 bitrate=5121.4kbits/s speed= 112x    frame=90974 fps=2796 q=-1.0 size= 2275584kB time=01:00:40.18 bitrate=5121.1kbits/s speed= 112x    frame=92416 fps=2798 q=-1.0 size= 2311680kB time=01:01:37.87 bitrate=5121.1kbits/s speed= 112x    frame=93856 fps=2799 q=-1.0 size= 2347776kB time=01:02:35.47 bitrate=5121.3kbits/s speed= 112x    frame=95246 fps=2799 q=-1.0 size= 2382592kB time=01:03:31.08 bitrate=5121.4kbits/s speed= 112x    frame=96664 fps=2799 q=-1.0 size= 2417920kB time=01:04:27.79 bitrate=5121.2kbits/s speed= 112x    frame=98123 fps=2801 q=-1.0 size= 2454528kB time=01:05:26.15 bitrate=5121.4kbits/s speed= 112x    frame=99519 fps=2801 q=-1.0 size= 2489600kB time=01:06:21.98 bitrate=5121.8kbits/s speed= 112x    frame=100960 fps=2802 q=-1.0 size= 2525696kB time=01:07:19.69 bitrate=5121.8kbits/s speed= 112x    frame=102415 fps=2803 q=-1.0 size= 2562048kB time=01:08:17.87 bitrate=5121.8kbits/s speed= 112x    frame=103854 fps=2804 q=-1.0 size= 2598144kB time=01:09:15.44 bitrate=5121.9kbits/s speed= 112x    frame=105323 fps=2806 q=-1.0 size= 2634752kB time=01:10:14.20 bitrate=5121.7kbits/s speed= 112x    frame=106768 fps=2807 q=-1.0 size= 2670848kB time=01:11:11.99 bitrate=5121.6kbits/s speed= 112x    frame=108244 fps=2809 q=-1.0 size= 2707712kB time=01:12:11.04 bitrate=5121.5kbits/s speed= 112x    frame=109695 fps=2810 q=-1.0 size= 2744064kB time=01:13:09.07 bitrate=5121.7kbits/s speed= 112x    frame=111159 fps=2811 q=-1.0 size= 2780672kB time=01:14:07.65 bitrate=5121.6kbits/s speed= 112x    frame=112624 fps=2813 q=-1.0 size= 2817280kB time=01:15:06.25 bitrate=5121.6kbits/s speed= 113x    frame=114088 fps=2814 q=-1.0 size= 2853888kB time=01:16:04.81 bitrate=5121.6kbits/s speed= 113x    frame=115563 fps=2816 q=-1.0 size= 2890752kB time=01:17:03.82 bitrate=5121.5kbits/s speed= 113x    frame=117010 fps=2817 q=-1.0 size= 2926848kB time=01:18:01.67 bitrate=5121.4kbits/s speed= 113x    frame=118473 fps=2818 q=-1.0 size= 2963456kB time=01:19:00.21 bitrate=5121.4kbits/s speed= 113x    frame=119904 fps=2818 q=-1.0 size= 2999296kB time=01:19:57.45 bitrate=5121.5kbits/s speed= 113x    frame=121391 fps=2820 q=-1.0 size= 3036416kB time=01:20:56.93 bitrate=5121.4kbits/s speed= 113x    frame=122849 fps=2821 q=-1.0 size= 3072768kB time=01:21:55.23 bitrate=5121.2kbits/s speed= 113x    frame=124292 fps=2822 q=-1.0 size= 3109120kB time=01:22:53.00 bitrate=5121.6kbits/s speed= 113x    frame=125765 fps=2823 q=-1.0 size= 3145984kB time=01:23:51.90 bitrate=5121.7kbits/s speed= 113x    frame=127164 fps=2823 q=-1.0 size= 3181568kB time=01:24:48.80 bitrate=5121.7kbits/s speed= 113x    frame=128575 fps=2823 q=-1.0 size= 3216896kB time=01:25:45.23 bitrate=5121.8kbits/s speed= 113x    frame=130032 fps=2824 q=-1.0 size= 3253248kB time=01:26:43.51 bitrate=5121.7kbits/s speed= 113x    frame=131481 fps=2825 q=-1.0 size= 3289600kB time=01:27:41.49 bitrate=5121.8kbits/s speed= 113x    frame=132942 fps=2826 q=-1.0 size= 3325952kB time=01:28:39.90 bitrate=5121.6kbits/s speed= 113x    frame=134449 fps=2828 q=-1.0 size= 3363840kB time=01:29:40.21 bitrate=5121.8kbits/s speed= 113x    frame=135929 fps=2829 q=-1.0 size= 3400704kB time=01:30:39.41 bitrate=5121.6kbits/s speed= 113x    frame=137422 fps=2831 q=-1.0 size= 3438080kB time=01:31:39.12 bitrate=5121.7kbits/s speed= 113x    frame=138889 fps=2832 q=-1.0 size= 3474688kB time=01:32:37.78 bitrate=5121.6kbits/s speed= 113x    frame=140404 fps=2834 q=-1.0 size= 3512576kB time=01:33:38.40 bitrate=5121.6kbits/s speed= 113x    frame=141874 fps=2835 q=-1.0 size= 3549440kB time=01:34:37.21 bitrate=5121.7kbits/s speed= 113x    frame=143397 fps=2837 q=-1.0 size= 3587328kB time=01:35:38.12 bitrate=5121.4kbits/s speed= 114x    frame=144896 fps=2838 q=-1.0 size= 3624704kB time=01:36:38.06 bitrate=5121.3kbits/s speed= 114x    frame=146383 fps=2840 q=-1.0 size= 3661824kB time=01:37:37.59 bitrate=5121.2kbits/s speed= 114x    frame=147871 fps=2841 q=-1.0 size= 3699200kB time=01:38:37.13 bitrate=5121.4kbits/s speed= 114x    frame=149356 fps=2842 q=-1.0 size= 3736320kB time=01:39:36.50 bitrate=5121.4kbits/s speed= 114x    frame=150850 fps=2843 q=-1.0 size= 3773696kB time=01:40:36.28 bitrate=5121.4kbits/s speed= 114x    frame=152283 fps=2844 q=-1.0 size= 3809536kB time=01:41:33.60 bitrate=5121.4kbits/s speed= 114x    frame=153764 fps=2845 q=-1.0 size= 3846656kB time=01:42:32.84 bitrate=5121.5kbits/s speed= 114x    frame=155223 fps=2845 q=-1.0 size= 3883264kB time=01:43:31.19 bitrate=5121.7kbits/s speed= 114x    frame=156674 fps=2846 q=-1.0 size= 3919360kB time=01:44:29.24 bitrate=5121.4kbits/s speed= 114x    frame=158139 fps=2846 q=-1.0 size= 3956224kB time=01:45:27.84 bitrate=5121.7kbits/s speed= 114x    frame=159601 fps=2847 q=-1.0 size= 3992832kB time=01:46:26.33 bitrate=5121.8kbits/s speed= 114x    frame=161061 fps=2848 q=-1.0 size= 4029184kB time=01:47:24.70 bitrate=5121.6kbits/s speed= 114x    frame=162498 fps=2848 q=-1.0 size= 4065280kB time=01:48:22.20 bitrate=5121.8kbits/s speed= 114x    frame=163932 fps=2848 q=-1.0 size= 4101376kB time=01:49:19.82 bitrate=5121.9kbits/s speed= 114x    frame=165367 fps=2848 q=-1.0 size= 4137472kB time=01:50:17.72 bitrate=5121.7kbits/s speed= 114x    frame=166865 fps=2849 q=-1.0 size= 4172544kB time=01:51:17.64 bitrate=5118.8kbits/s speed= 114x    frame=167083 fps=2849 q=-1.0 Lsize= 4177809kB time=01:51:26.35 bitrate=5118.6kbits/s speed= 114x    
+video:4078680kB audio:90652kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.203317%

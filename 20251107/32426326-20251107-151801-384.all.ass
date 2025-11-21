@@ -1,0 +1,46 @@
+[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 2560
+PlayResY: 1440
+Timer: 100.0000
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+
+Style: R2L,Noto Sans CJK SC,73,&H00FFFFFF,&H00FFFFFF,&H00000000,&H1E6A5149,0,0,0,0,100.00,100.00,0.00,0.00,1,1.0,1.0,8,0,0,0,1
+Style: L2R,Noto Sans CJK SC,73,&H00FFFFFF,&H00FFFFFF,&H00000000,&H1E6A5149,0,0,0,0,100.00,100.00,0.00,0.00,1,1.0,1.0,8,0,0,0,1
+Style: TOP,Noto Sans CJK SC,73,&H00FFFFFF,&H00FFFFFF,&H00000000,&H1E6A5149,0,0,0,0,100.00,100.00,0.00,0.00,1,1.0,1.0,8,0,0,0,1
+Style: BTM,Noto Sans CJK SC,73,&H00FFFFFF,&H00FFFFFF,&H00000000,&H1E6A5149,0,0,0,0,100.00,100.00,0.00,0.00,1,1.0,1.0,8,0,0,0,1
+Style: SP,Noto Sans CJK SC,73,&H00FFFFFF,&H00FFFFFF,&H00000000,&H1E6A5149,0,0,0,0,100.00,100.00,0.00,0.00,1,1.0,1.0,7,0,0,0,1
+Style: message_box,Noto Sans CJK SC,38,&H00FFFFFF,&H00FFFFFF,&H00000000,&H1E6A5149,0,0,0,0,100.00,100.00,0.00,0.00,1,0.5,0.5,7,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:41.35,0:00:53.35,R2L,,0000,0000,0000,,{\move(3137,1,-577,1)}{\c&HBCACF7}クリーム松饼:\h{\c&HFF3FE3}早[比心][比心][比心]
+Dialogue: 0,0:00:41.55,0:00:53.55,R2L,,0000,0000,0000,,{\move(2742,75,-182,75)}{\c&HBCACF7}江沃酱:\h{\c&HFFFFFF}早上好
+Dialogue: 0,0:00:51.43,0:01:03.43,R2L,,0000,0000,0000,,{\move(2803,1,-243,1)}{\c&HBCACF7}江沃酱:\h{\c&HFFFFFF}早哦哦哦哦
+Dialogue: 0,0:01:02.67,0:01:14.67,R2L,,0000,0000,0000,,{\move(2681,1,-121,1)}{\c&HBCACF7}嘉琪拉:\h{\c&HFFFFFF}早
+Dialogue: 0,0:01:05.52,0:01:17.52,R2L,,0000,0000,0000,,{\move(3198,75,-638,75)}{\c&HBCACF7}18127688144_bili:\h{\c&HFFFFFF}今天播吗？
+Dialogue: 0,0:01:12.67,0:01:24.67,R2L,,0000,0000,0000,,{\move(3198,1,-638,1)}{\c&HBCACF7}瑶瑶混日子:\h{\c&HFFFFFF}早上好呀[比心][比心][比心]
+Dialogue: 0,0:01:16.96,0:01:28.96,R2L,,0000,0000,0000,,{\move(3137,1,-577,1)}{\c&HBCACF7}平行loser:\h{\c&HFFFFFF}主播我今晚想看望庐山瀑布
+Dialogue: 0,0:01:17.18,0:01:29.18,R2L,,0000,0000,0000,,{\move(2985,75,-425,75)}{\c&HBCACF7}Untitled_ID:\h{\c&HFFFFFF}早上好
+Dialogue: 0,0:01:25.83,0:01:37.83,R2L,,0000,0000,0000,,{\move(2803,1,-243,1)}{\c&HBCACF7}梵心戾蝉:\h{\c&HFFFFFF}孫怎晚？
+Dialogue: 0,0:01:25.83,0:01:37.83,R2L,,0000,0000,0000,,{\move(4080,75,-1520,75)}{\c&HBCACF7}jason19659:\h{\c&HFCFF00}\h饼饼啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊早
+Dialogue: 0,0:01:27.21,0:01:39.21,R2L,,0000,0000,0000,,{\move(2925,149,-365,149)}{\c&HBCACF7}Su1k4_:\h{\c&HFFFFFF}老公老公老公
+Dialogue: 0,0:01:29.86,0:01:41.86,R2L,,0000,0000,0000,,{\move(3137,1,-577,1)}{\c&HBCACF7}クリーム松饼:\h{\c&HFF3FE3}早[比心][比心][比心]
+Dialogue: 0,0:01:31.49,0:01:43.49,R2L,,0000,0000,0000,,{\move(2742,149,-182,149)}{\c&HBCACF7}贼懵懵:\h{\c&HFFFFFF}孙怎晚
+Dialogue: 0,0:01:36.98,0:01:48.98,R2L,,0000,0000,0000,,{\move(3198,1,-638,1)}{\c&HBCACF7}クリーム松饼:\h{\c&HFF3FE3}早上好[比心][比心][比心]
+Dialogue: 0,0:01:38.68,0:01:50.68,R2L,,0000,0000,0000,,{\move(2833,75,-273,75)}{\c&HBCACF7}喵喵青眼:\h{\c&HFFFFFF}宝宝我来了
+Dialogue: 0,0:01:55.57,0:02:07.57,R2L,,0000,0000,0000,,{\move(2985,1,-425,1)}{\c&HBCACF7}风之鱼之歌:\h{\c&HFFFFFF}你可算来了[委屈]
+Dialogue: 0,0:01:57.26,0:02:09.26,R2L,,0000,0000,0000,,{\move(2742,75,-182,75)}{\c&HBCACF7}肖维尔:\h{\c&HFFFFFF}走马灯
+Comment: NO.18:unknow type
+Dialogue: 0,0:01:59.87,0:02:11.87,R2L,,0000,0000,0000,,{\move(2742,1,-182,1)}{\c&HBCACF7}ホコり:\h{\c&HFFFFFF}早上好
+Dialogue: 0,0:02:08.45,0:02:20.45,R2L,,0000,0000,0000,,{\move(2833,1,-273,1)}{\c&HBCACF7}风之鱼之歌:\h{\c&HFFFFFF}松饼早啊
+Dialogue: 0,0:02:09.89,0:02:21.89,R2L,,0000,0000,0000,,{\move(3046,75,-486,75)}{\c&HBCACF7}Vionarie:\h{\c&HFFFFFF}两眼一睁就是直播
+Dialogue: 0,0:02:10.10,0:02:22.10,R2L,,0000,0000,0000,,{\move(3046,149,-486,149)}{\c&HBCACF7}贼懵懵:\h{\c&HFFFFFF}今天要剑指\h8000\h分吗
+Dialogue: 0,0:02:17.06,0:02:29.06,R2L,,0000,0000,0000,,{\move(2711,1,-151,1)}{\c&HBCACF7}ホコり:\h{\c&HFFFFFF}不好
+Dialogue: 0,0:02:22.98,0:02:34.98,R2L,,0000,0000,0000,,{\move(2803,1,-243,1)}{\c&HBCACF7}Su1k4_:\h{\c&HFFFFFF}扫墓
+Dialogue: 0,0:02:24.18,0:02:36.18,R2L,,0000,0000,0000,,{\move(3959,75,-1399,75)}{\c&HBCACF7}クリーム松饼:\h{\c&HFF3FE3}早aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
