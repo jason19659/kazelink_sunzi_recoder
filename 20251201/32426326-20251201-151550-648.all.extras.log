@@ -1,0 +1,73 @@
+/webhook/venv/lib/python3.10/site-packages/danmaku_tools/danmaku_energy_map.py:24: DeprecationWarning: Please import `convolve` from the `scipy.ndimage` namespace; the `scipy.ndimage.filters` namespace is deprecated and will be removed in SciPy 2.0.0.
+  from scipy.ndimage.filters import convolve
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.423 seconds.
+Prefix dict has been built successfully.
+  0%|          | 0/2 [00:00<?, ?it/s]7
+11
+100%|██████████| 2/2 [00:00<00:00, 94.77it/s]
+
+DanmakuFactory 1.70 CLI Release by hkm (hkm@tikm.org)
+https://github.com/hihkm/DanmakuFactory
+
+Input file(s):
+Number|Template     |TimeShift|FileName
+     1|xml          |   0.000s|/storage/32426326/20251201/32426326-20251201-151550-648.all.clean.xml
+
+Output file:
+Format|FileName
+   ass|/storage/32426326/20251201/32426326-20251201-151550-648.all.ass
+
+Loading files...
+Loading file "/storage/32426326/20251201/32426326-20251201-151550-648.all.clean.xml"
+
+File Loading Complete.. Danmaku Pool: 32
+
+Sorting...
+
+Writting file "/storage/32426326/20251201/32426326-20251201-151550-648.all.ass"...
+
+Done!
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/xml/etree/ElementTree.py", line 757, in _get_writer
+    write = file_or_filename.write
+AttributeError: 'str' object has no attribute 'write'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/webhook/venv/lib/python3.10/site-packages/danmaku_tools/merge_danmaku.py", line 64, in <module>
+    tree.write(args.output, encoding='UTF-8', xml_declaration=True)
+  File "/usr/lib/python3.10/xml/etree/ElementTree.py", line 743, in write
+    serialize(write, self._root, qnames, namespaces,
+  File "/usr/lib/python3.10/xml/etree/ElementTree.py", line 906, in _serialize_xml
+    _serialize_xml(write, e, qnames, None,
+  File "/usr/lib/python3.10/xml/etree/ElementTree.py", line 900, in _serialize_xml
+    write(" %s=\"%s\"" % (qnames[k], v))
+OSError: [Errno 5] Input/output error
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/webhook/venv/lib/python3.10/site-packages/danmaku_tools/clean_danmaku.py", line 32, in <module>
+    tree = ET.parse(args.xml_files)
+  File "/usr/lib/python3.10/xml/etree/ElementTree.py", line 1222, in parse
+    tree.parse(source, parser)
+  File "/usr/lib/python3.10/xml/etree/ElementTree.py", line 580, in parse
+    self._root = parser._parse_whole(source)
+xml.etree.ElementTree.ParseError: unclosed token: line 332, column 2
+/webhook/venv/lib/python3.10/site-packages/danmaku_tools/danmaku_energy_map.py:24: DeprecationWarning: Please import `convolve` from the `scipy.ndimage` namespace; the `scipy.ndimage.filters` namespace is deprecated and will be removed in SciPy 2.0.0.
+  from scipy.ndimage.filters import convolve
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.410 seconds.
+Prefix dict has been built successfully.
+  0%|          | 0/2 [00:00<?, ?it/s]7
+11
+100%|██████████| 2/2 [00:00<00:00, 108.43it/s]

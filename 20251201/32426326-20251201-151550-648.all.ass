@@ -1,0 +1,53 @@
+[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+Timer: 100.0000
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+
+Style: R2L,Noto Sans CJK SC,55,&H00FFFFFF,&H00FFFFFF,&H00000000,&H1E6A5149,0,0,0,0,100.00,100.00,0.00,0.00,1,1.0,1.0,8,0,0,0,1
+Style: L2R,Noto Sans CJK SC,55,&H00FFFFFF,&H00FFFFFF,&H00000000,&H1E6A5149,0,0,0,0,100.00,100.00,0.00,0.00,1,1.0,1.0,8,0,0,0,1
+Style: TOP,Noto Sans CJK SC,55,&H00FFFFFF,&H00FFFFFF,&H00000000,&H1E6A5149,0,0,0,0,100.00,100.00,0.00,0.00,1,1.0,1.0,8,0,0,0,1
+Style: BTM,Noto Sans CJK SC,55,&H00FFFFFF,&H00FFFFFF,&H00000000,&H1E6A5149,0,0,0,0,100.00,100.00,0.00,0.00,1,1.0,1.0,8,0,0,0,1
+Style: SP,Noto Sans CJK SC,55,&H00FFFFFF,&H00FFFFFF,&H00000000,&H1E6A5149,0,0,0,0,100.00,100.00,0.00,0.00,1,1.0,1.0,7,0,0,0,1
+Style: message_box,Noto Sans CJK SC,38,&H00FFFFFF,&H00FFFFFF,&H00000000,&H1E6A5149,0,0,0,0,100.00,100.00,0.00,0.00,1,0.7,0.7,7,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:31.05,0:00:43.05,R2L,,0000,0000,0000,,{\move(2148,1,-228,1)}{\c&HBCACF7}武器战没有眼泪:\h{\c&HFFFFFF}早早早
+Dialogue: 0,0:00:36.34,0:00:48.34,R2L,,0000,0000,0000,,{\move(2148,1,-228,1)}{\c&HBCACF7}武器战没有眼泪:\h{\c&HFFFFFF}#开走
+Dialogue: 0,0:00:45.82,0:00:57.82,R2L,,0000,0000,0000,,{\move(2148,1,-228,1)}{\c&HBCACF7}武器战没有眼泪:\h{\c&HFFFFFF}#灯顶
+Dialogue: 0,0:00:47.67,0:00:59.67,R2L,,0000,0000,0000,,{\move(2148,57,-228,57)}{\c&HBCACF7}北京大牛爱林克:\h{\c&HFFFFFF}#开走
+Dialogue: 0,0:00:51.65,0:01:03.65,R2L,,0000,0000,0000,,{\move(2148,1,-228,1)}{\c&HBCACF7}武器战没有眼泪:\h{\c&HFFFFFF}#雅阁
+Dialogue: 0,0:00:56.57,0:01:08.57,R2L,,0000,0000,0000,,{\move(2057,1,-137,1)}{\c&HBCACF7}贼懵懵:\h{\c&HFFFFFF}大戾士
+Dialogue: 0,0:00:58.53,0:01:10.53,R2L,,0000,0000,0000,,{\move(2401,57,-481,57)}{\c&HBCACF7}西里斯-Sirius:\h{\c&HFF3FE3}前排出售瓜子花生金河田
+Dialogue: 0,0:01:02.31,0:01:14.31,R2L,,0000,0000,0000,,{\move(2171,1,-251,1)}{\c&HBCACF7}武器战没有眼泪:\h{\c&HFFFFFF}#金河田
+Dialogue: 0,0:01:03.28,0:01:15.28,R2L,,0000,0000,0000,,{\move(2080,57,-160,57)}{\c&HBCACF7}梵心戾蝉:\h{\c&HFFFFFF}孙怎晚
+Dialogue: 0,0:01:11.31,0:01:23.31,R2L,,0000,0000,0000,,{\move(2057,1,-137,1)}{\c&HBCACF7}贼懵懵:\h{\c&HFFFFFF}大戾士
+Dialogue: 0,0:01:14.52,0:01:26.52,R2L,,0000,0000,0000,,{\move(2217,1,-297,1)}{\c&HBCACF7}北京大牛爱林克:\h{\c&HFFFFFF}早捏，孙孙酱
+Dialogue: 0,0:01:15.88,0:01:27.88,R2L,,0000,0000,0000,,{\move(2102,57,-182,57)}{\c&HBCACF7}青春是首漫游诗:\h{\c&HFFFFFF}孙
+Dialogue: 0,0:01:17.12,0:01:29.12,R2L,,0000,0000,0000,,{\move(2057,113,-137,113)}{\c&HBCACF7}贼懵懵:\h{\c&HFFFFFF}大戾士
+Dialogue: 0,0:01:21.39,0:01:33.39,R2L,,0000,0000,0000,,{\move(2102,1,-182,1)}{\c&HBCACF7}青春是首漫游诗:\h{\c&HFFFFFF}怎
+Dialogue: 0,0:01:21.39,0:01:33.39,R2L,,0000,0000,0000,,{\move(2102,57,-182,57)}{\c&HBCACF7}青春是首漫游诗:\h{\c&HFFFFFF}晚
+Dialogue: 0,0:01:32.11,0:01:44.11,R2L,,0000,0000,0000,,{\move(2767,1,-847,1)}{\c&HBCACF7}青春是首漫游诗:\h{\c&HFFFFFF}孙怎晚孙怎晚孙怎晚孙怎晚孙怎晚孙怎晚孙怎晚孙怎晚孙怎晚孙怎晚
+Dialogue: 0,0:02:55.32,0:03:07.32,R2L,,0000,0000,0000,,{\move(2378,1,-458,1)}{\c&HBCACF7}梵心戾蝉:\h{\c&HFFFFFF}沒有多人，沒有故事會，也沒有戾氣
+Dialogue: 0,0:03:00.67,0:03:12.67,R2L,,0000,0000,0000,,{\move(2400,1,-480,1)}{\c&HBCACF7}奇诺比珂真可爱呀:\h{\c&HFFFFFF}饼饼晚上好[比心][比心]
+Dialogue: 0,0:03:29.66,0:03:41.66,R2L,,0000,0000,0000,,{\move(2011,1,-91,1)}{\c&HBCACF7}先负:\h{\c&HFFFFFF}啊？
+Dialogue: 0,0:03:36.92,0:03:48.92,R2L,,0000,0000,0000,,{\move(2401,1,-481,1)}{\c&HBCACF7}クリーム松饼:\h{\c&HFF3FE3}晚上好[比心][比心][比心]
+Dialogue: 0,0:04:02.44,0:04:14.44,R2L,,0000,0000,0000,,{\move(2171,1,-251,1)}{\c&HBCACF7}奇诺比珂真可爱呀:\h{\c&HFFFFFF}HOW
+Dialogue: 0,0:04:03.78,0:04:15.78,R2L,,0000,0000,0000,,{\move(2034,57,-114,57)}{\c&HBCACF7}房方猫:\h{\c&HFFFFFF}不好
+Dialogue: 0,0:04:08.58,0:04:20.58,R2L,,0000,0000,0000,,{\move(2378,1,-458,1)}{\c&HBCACF7}lichking121:\h{\c&HFFFFFF}哈哈哈最后一个钻洞
+Dialogue: 0,0:04:09.15,0:04:21.15,R2L,,0000,0000,0000,,{\move(2217,57,-297,57)}{\c&HBCACF7}北京大牛爱林克:\h{\c&HFFFFFF}早捏，饼饼酱
+Dialogue: 0,0:04:15.42,0:04:27.42,R2L,,0000,0000,0000,,{\move(2355,1,-435,1)}{\c&HBCACF7}Lindoro-:\h{\c&HFFFFFF}昨天弹幕互通搞得怎么样
+Dialogue: 0,0:04:15.86,0:04:27.86,R2L,,0000,0000,0000,,{\move(2103,57,-183,57)}{\c&HBCACF7}晓风丿自然:\h{\c&HFFFFFF}走马灯
+Dialogue: 0,0:04:16.60,0:04:28.60,R2L,,0000,0000,0000,,{\move(2148,113,-228,113)}{\c&HBCACF7}先负:\h{\c&HFFFFFF}我以为是黑花那里
+Dialogue: 0,0:04:19.88,0:04:31.88,R2L,,0000,0000,0000,,{\move(2378,1,-458,1)}{\c&HBCACF7}クリーム松饼:\h{\c&HFF3FE3}早捏[比心][比心][比心]
+Dialogue: 0,0:04:21.99,0:04:33.99,R2L,,0000,0000,0000,,{\move(2148,57,-228,57)}{\c&HBCACF7}舞霄之7998:\h{\c&HFFFFFF}麦早过
+Dialogue: 0,0:04:36.09,0:04:48.09,R2L,,0000,0000,0000,,{\move(3065,1,-1145,1)}{\c&HBCACF7}jason19659:\h{\c&HFCFF00}饼饼早啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊
+Dialogue: 0,0:04:40.04,0:04:52.04,R2L,,0000,0000,0000,,{\move(2171,57,-251,57)}{\c&HBCACF7}奇诺比珂真可爱呀:\h{\c&HFFFFFF}#开走
+Dialogue: 0,0:04:41.37,0:04:53.37,R2L,,0000,0000,0000,,{\move(2103,113,-183,113)}{\c&HBCACF7}胡味水蜜桃:\h{\c&HFFFFFF}孙怎晚
