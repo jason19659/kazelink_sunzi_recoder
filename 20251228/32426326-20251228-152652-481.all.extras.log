@@ -1,0 +1,112 @@
+/webhook/venv/lib/python3.10/site-packages/danmaku_tools/danmaku_energy_map.py:24: DeprecationWarning: Please import `convolve` from the `scipy.ndimage` namespace; the `scipy.ndimage.filters` namespace is deprecated and will be removed in SciPy 2.0.0.
+  from scipy.ndimage.filters import convolve
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.891 seconds.
+Prefix dict has been built successfully.
+  0%|          | 0/83 [00:00<?, ?it/s]53
+51
+31
+  4%|▎         | 3/83 [00:00<00:04, 19.16it/s]0
+5
+5
+2
+54
+ 10%|▉         | 8/83 [00:00<00:03, 25.00it/s]4
+0
+14
+19
+ 14%|█▍        | 12/83 [00:00<00:02, 29.48it/s]6
+4
+8
+1
+12
+70
+ 22%|██▏       | 18/83 [00:00<00:01, 35.30it/s]3
+5
+44
+25
+81
+ 28%|██▊       | 23/83 [00:00<00:02, 27.44it/s]2
+0
+0
+42
+35
+46
+ 35%|███▍      | 29/83 [00:00<00:01, 29.96it/s]35
+22
+0
+93
+ 40%|███▉      | 33/83 [00:01<00:01, 27.84it/s]95
+47
+4
+ 43%|████▎     | 36/83 [00:01<00:02, 21.55it/s]0
+2
+16
+0
+26
+41
+17
+ 52%|█████▏    | 43/83 [00:01<00:01, 29.85it/s]22
+5
+46
+4
+43
+ 58%|█████▊    | 48/83 [00:01<00:01, 33.11it/s]8
+37
+41
+2
+0
+21
+ 65%|██████▌   | 54/83 [00:01<00:00, 38.48it/s]29
+0
+40
+4
+41
+3
+38
+25
+ 75%|███████▍  | 62/83 [00:01<00:00, 46.31it/s]37
+5
+4
+28
+3
+31
+9
+6
+31
+ 86%|████████▌ | 71/83 [00:01<00:00, 55.36it/s]24
+14
+24
+9
+5
+18
+12
+0
+50
+ 96%|█████████▋| 80/83 [00:02<00:00, 60.69it/s]41
+15
+12
+100%|██████████| 83/83 [00:02<00:00, 38.71it/s]
+
+DanmakuFactory 1.70 CLI Release by hkm (hkm@tikm.org)
+https://github.com/hihkm/DanmakuFactory
+
+Input file(s):
+Number|Template     |TimeShift|FileName
+     1|xml          |   0.000s|/storage/32426326/20251228/32426326-20251228-152652-481.all.clean.xml
+
+Output file:
+Format|FileName
+   ass|/storage/32426326/20251228/32426326-20251228-152652-481.all.ass
+
+Loading files...
+Loading file "/storage/32426326/20251228/32426326-20251228-152652-481.all.clean.xml"
+
+File Loading Complete.. Danmaku Pool: 4618
+
+Sorting...
+
+Writting file "/storage/32426326/20251228/32426326-20251228-152652-481.all.ass"...
+
+Done!

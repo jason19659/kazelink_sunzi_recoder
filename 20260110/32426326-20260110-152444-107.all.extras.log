@@ -1,0 +1,12 @@
+/webhook/venv/lib/python3.10/site-packages/danmaku_tools/danmaku_energy_map.py:24: DeprecationWarning: Please import `convolve` from the `scipy.ndimage` namespace; the `scipy.ndimage.filters` namespace is deprecated and will be removed in SciPy 2.0.0.
+  from scipy.ndimage.filters import convolve
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/webhook/venv/lib/python3.10/site-packages/danmaku_tools/danmaku_energy_map.py", line 502, in <module>
+    slices = gen_danmaku_slices(xml_list, 1)
+  File "/webhook/venv/lib/python3.10/site-packages/danmaku_tools/danmaku_energy_map.py", line 129, in gen_danmaku_slices
+    final_time = get_time(all_children[-1])
+IndexError: list index out of range

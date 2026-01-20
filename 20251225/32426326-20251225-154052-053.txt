@@ -1,0 +1,19 @@
+﻿此文件内记录了对应的视频文件中可能存在的问题
+mikufans录播姬 2.17.3
+
+-----记录开始-----
+记录时间: 2025-12-25T20:44:20.8116343+00:00
+视频时间: 05:03:32.496
+文件位置: 15577246665 字节
+收到直播服务器发送的 onMetaData 数据，请检查此位置是否有重复的直播片段或缺少数据。
+造成这个问题的原因可能是录播姬所连接的直播服务器与它的上级服务器的连接断开重连了。
+数据内容: [{"Type":"String","Value":"onMetaData"},{"Type":"Object","Value":{"height":{"Type":"Number","Value":1440.0},"7.1":{"Type":"Boolean","Value":false},"4.1":{"Type":"Boolean","Value":false},"2.1":{"Type":"Boolean","Value":false},"server_version":{"Type":"String","Value":"2.0.209/1766371640070"},"framerate":{"Type":"Number","Value":60.0},"stereo":{"Type":"Boolean","Value":true},"videodatarate":{"Type":"Number","Value":8000.0},"encoder":{"Type":"String","Value":"obs-output module (libobs version 31.1.2)"},"fileSize":{"Type":"Number","Value":0.0},"displayHeight":{"Type":"Number","Value":1440.0},"audiosamplesize":{"Type":"Number","Value":16.0},"fps":{"Type":"Number","Value":60.0},"displayWidth":{"Type":"Number","Value":2560.0},"audiochannels":{"Type":"Number","Value":2.0},"5.1":{"Type":"Boolean","Value":false},"audiodatarate":{"Type":"Number","Value":192.0},"videocodecid":{"Type":"Number","Value":7.0},"audiosamplerate":{"Type":"Number","Value":48000.0},"actual_vbitrate_bps":{"Type":"Number","Value":8035009.0},"3.1":{"Type":"Boolean","Value":false},"actual_abitrate_bps":{"Type":"Number","Value":204332.0},"cascadeID":{"Type":"String","Value":"/[42990][22483038]/[42990][22483036]/[55323][22989862]/[55323][22989860]/[31445][3549013]/[56733][3777557]/[56733][3777555]"},"width":{"Type":"Number","Value":2560.0},"cascadeTs":{"Type":"String","Value":"/1766677251009/1766677251009/1766677251601/1766677251601/1766677251463/1766695460359/1766695460516"},"cdn_ip":{"Type":"String","Value":"192.168.252.3"},"4.0":{"Type":"Boolean","Value":false},"audiocodecid":{"Type":"Number","Value":10.0}}},{"Type":"Null"}]
+-----记录结束-----
+-----记录开始-----
+记录时间: 2025-12-25T20:44:26.2456452+00:00
+视频时间: 05:03:32.496
+文件位置: 15577246665 字节
+收到直播服务器发送的 onMetaData 数据，请检查此位置是否有重复的直播片段或缺少数据。
+造成这个问题的原因可能是录播姬所连接的直播服务器与它的上级服务器的连接断开重连了。
+数据内容: [{"Type":"String","Value":"onMetaData"},{"Type":"Object","Value":{"audiodatarate":{"Type":"Number","Value":192.0},"videocodecid":{"Type":"Number","Value":7.0},"displayWidth":{"Type":"Number","Value":2560.0},"audiochannels":{"Type":"Number","Value":2.0},"framerate":{"Type":"Number","Value":60.0},"audiosamplerate":{"Type":"Number","Value":48000.0},"fps":{"Type":"Number","Value":60.0},"audiosamplesize":{"Type":"Number","Value":16.0},"actual_abitrate_bps":{"Type":"Number","Value":204332.0},"actual_vbitrate_bps":{"Type":"Number","Value":8035009.0},"cdn_ip":{"Type":"String","Value":"192.168.252.3"},"height":{"Type":"Number","Value":1440.0},"7.1":{"Type":"Boolean","Value":false},"2.1":{"Type":"Boolean","Value":false},"3.1":{"Type":"Boolean","Value":false},"encoder":{"Type":"String","Value":"obs-output module (libobs version 31.1.2)"},"server_version":{"Type":"String","Value":"2.0.209/1766371640608"},"width":{"Type":"Number","Value":2560.0},"cascadeTs":{"Type":"String","Value":"/1766677251009/1766677251009/1766677251601/1766677251601/1766677251463/1766695465480/1766695465518"},"4.0":{"Type":"Boolean","Value":false},"fileSize":{"Type":"Number","Value":0.0},"videodatarate":{"Type":"Number","Value":8000.0},"4.1":{"Type":"Boolean","Value":false},"cascadeID":{"Type":"String","Value":"/[42990][22483038]/[42990][22483036]/[55323][22989862]/[55323][22989860]/[31445][3549013]/[2094][3809509]/[2094][3809507]"},"stereo":{"Type":"Boolean","Value":true},"displayHeight":{"Type":"Number","Value":1440.0},"audiocodecid":{"Type":"Number","Value":10.0},"5.1":{"Type":"Boolean","Value":false}}},{"Type":"Null"}]
+-----记录结束-----

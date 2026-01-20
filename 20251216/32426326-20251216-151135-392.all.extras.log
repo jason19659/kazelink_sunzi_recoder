@@ -1,0 +1,88 @@
+/webhook/venv/lib/python3.10/site-packages/danmaku_tools/danmaku_energy_map.py:24: DeprecationWarning: Please import `convolve` from the `scipy.ndimage` namespace; the `scipy.ndimage.filters` namespace is deprecated and will be removed in SciPy 2.0.0.
+  from scipy.ndimage.filters import convolve
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.602 seconds.
+Prefix dict has been built successfully.
+  0%|          | 0/59 [00:00<?, ?it/s]30
+5
+31
+55
+  7%|▋         | 4/59 [00:00<00:02, 23.15it/s]38
+23
+10
+68
+ 14%|█▎        | 8/59 [00:00<00:01, 29.91it/s]0
+52
+96
+0
+ 20%|██        | 12/59 [00:00<00:01, 30.16it/s]9
+3
+5
+7
+37
+33
+62
+ 32%|███▏      | 19/59 [00:00<00:00, 40.15it/s]2
+0
+42
+14
+237
+ 41%|████      | 24/59 [00:00<00:01, 29.55it/s]25
+46
+66
+48
+ 47%|████▋     | 28/59 [00:00<00:01, 30.33it/s]61
+20
+74
+11
+ 54%|█████▍    | 32/59 [00:01<00:00, 29.51it/s]16
+38
+1
+82
+ 61%|██████    | 36/59 [00:01<00:00, 28.94it/s]13
+8
+25
+40
+ 68%|██████▊   | 40/59 [00:01<00:00, 31.16it/s]41
+73
+26
+110
+ 75%|███████▍  | 44/59 [00:01<00:00, 25.79it/s]38
+27
+19
+ 80%|███████▉  | 47/59 [00:01<00:00, 26.22it/s]12
+28
+2
+160
+ 86%|████████▋ | 51/59 [00:01<00:00, 21.36it/s]40
+43
+1
+73
+ 93%|█████████▎| 55/59 [00:02<00:00, 22.16it/s]174
+18
+33
+ 98%|█████████▊| 58/59 [00:02<00:00, 19.24it/s]67
+100%|██████████| 59/59 [00:02<00:00, 25.31it/s]
+
+DanmakuFactory 1.70 CLI Release by hkm (hkm@tikm.org)
+https://github.com/hihkm/DanmakuFactory
+
+Input file(s):
+Number|Template     |TimeShift|FileName
+     1|xml          |   0.000s|/storage/32426326/20251216/32426326-20251216-151135-392.all.clean.xml
+
+Output file:
+Format|FileName
+   ass|/storage/32426326/20251216/32426326-20251216-151135-392.all.ass
+
+Loading files...
+Loading file "/storage/32426326/20251216/32426326-20251216-151135-392.all.clean.xml"
+
+File Loading Complete.. Danmaku Pool: 5748
+
+Sorting...
+
+Writting file "/storage/32426326/20251216/32426326-20251216-151135-392.all.ass"...
+
+Done!
