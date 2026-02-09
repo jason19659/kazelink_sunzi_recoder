@@ -1,0 +1,108 @@
+/webhook/venv/lib/python3.10/site-packages/danmaku_tools/danmaku_energy_map.py:24: DeprecationWarning: Please import `convolve` from the `scipy.ndimage` namespace; the `scipy.ndimage.filters` namespace is deprecated and will be removed in SciPy 2.0.0.
+  from scipy.ndimage.filters import convolve
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.434 seconds.
+Prefix dict has been built successfully.
+  0%|          | 0/79 [00:00<?, ?it/s]0
+0
+15
+23
+  5%|▌         | 4/79 [00:00<00:03, 21.11it/s]0
+1
+19
+18
+21
+ 11%|█▏        | 9/79 [00:00<00:02, 24.17it/s]3
+3
+2
+5
+35
+ 18%|█▊        | 14/79 [00:00<00:02, 31.42it/s]3
+142
+28
+4
+ 23%|██▎       | 18/79 [00:00<00:03, 16.90it/s]6
+5
+7
+12
+28
+31
+ 30%|███       | 24/79 [00:01<00:02, 24.01it/s]113
+33
+7
+5
+ 35%|███▌      | 28/79 [00:01<00:02, 23.16it/s]18
+25
+8
+5
+2
+34
+ 43%|████▎     | 34/79 [00:01<00:01, 29.15it/s]1
+66
+9
+7
+ 48%|████▊     | 38/79 [00:01<00:01, 27.97it/s]2
+32
+55
+18
+ 53%|█████▎    | 42/79 [00:01<00:01, 28.09it/s]0
+12
+22
+1
+1
+24
+4
+0
+3
+0
+3
+6
+10
+ 70%|██████▉   | 55/79 [00:01<00:00, 50.03it/s]1
+26
+1
+2
+4
+12
+6
+21
+ 80%|███████▉  | 63/79 [00:01<00:00, 55.47it/s]4
+12
+0
+9
+4
+7
+0
+14
+30
+ 91%|█████████ | 72/79 [00:02<00:00, 53.39it/s]1
+14
+11
+9
+10
+5
+17
+100%|██████████| 79/79 [00:02<00:00, 37.53it/s]
+
+DanmakuFactory 1.70 CLI Release by hkm (hkm@tikm.org)
+https://github.com/hihkm/DanmakuFactory
+
+Input file(s):
+Number|Template     |TimeShift|FileName
+     1|xml          |   0.000s|/storage/32426326/20260127/32426326-20260127-161403-757.all.clean.xml
+
+Output file:
+Format|FileName
+   ass|/storage/32426326/20260127/32426326-20260127-161403-757.all.ass
+
+Loading files...
+Loading file "/storage/32426326/20260127/32426326-20260127-161403-757.all.clean.xml"
+
+File Loading Complete.. Danmaku Pool: 2912
+
+Sorting...
+
+Writting file "/storage/32426326/20260127/32426326-20260127-161403-757.all.ass"...
+
+Done!
