@@ -1,0 +1,19 @@
+﻿此文件内记录了对应的视频文件中可能存在的问题
+mikufans录播姬 2.17.3
+
+-----记录开始-----
+记录时间: 2026-04-10T21:50:22.2395167+00:00
+视频时间: 07:21:29.508
+文件位置: 22977270219 字节
+收到直播服务器发送的 onMetaData 数据，请检查此位置是否有重复的直播片段或缺少数据。
+造成这个问题的原因可能是录播姬所连接的直播服务器与它的上级服务器的连接断开重连了。
+数据内容: [{"Type":"String","Value":"onMetaData"},{"Type":"Object","Value":{"7.1":{"Type":"Boolean","Value":false},"framerate":{"Type":"Number","Value":60.0},"cdn_ip":{"Type":"String","Value":"192.168.252.5"},"server_version":{"Type":"String","Value":"2.0.209/1775703679482"},"fps":{"Type":"Number","Value":60.0},"2.1":{"Type":"Boolean","Value":false},"cascadeID":{"Type":"String","Value":"/[55905][7235531]/[55905][7235530]/[42950][7205927]/[42950][7205926]/[51313][1508161]/[38353][1697492]/[38353][1697491]"},"audiosamplerate":{"Type":"Number","Value":48000.0},"encoder":{"Type":"String","Value":"obs-output module (libobs version 32.1.1)"},"5.1":{"Type":"Boolean","Value":false},"actual_abitrate_bps":{"Type":"Number","Value":199759.0},"height":{"Type":"Number","Value":1080.0},"videodatarate":{"Type":"Number","Value":8000.0},"displayHeight":{"Type":"Number","Value":1080.0},"4.0":{"Type":"Boolean","Value":false},"audiochannels":{"Type":"Number","Value":2.0},"actual_vbitrate_bps":{"Type":"Number","Value":8053091.0},"audiosamplesize":{"Type":"Number","Value":16.0},"displayWidth":{"Type":"Number","Value":1920.0},"3.1":{"Type":"Boolean","Value":false},"fileSize":{"Type":"Number","Value":0.0},"videocodecid":{"Type":"Number","Value":7.0},"audiocodecid":{"Type":"Number","Value":10.0},"cascadeTs":{"Type":"String","Value":"/1775831325727/1775831325727/1775831325349/1775831325349/1775831325817/1775857818662/1775857819618"},"stereo":{"Type":"Boolean","Value":true},"audiodatarate":{"Type":"Number","Value":192.0},"width":{"Type":"Number","Value":1920.0},"4.1":{"Type":"Boolean","Value":false}}},{"Type":"Null"}]
+-----记录结束-----
+-----记录开始-----
+记录时间: 2026-04-10T21:50:24.8851521+00:00
+视频时间: 07:21:29.508
+文件位置: 22977270219 字节
+收到直播服务器发送的 onMetaData 数据，请检查此位置是否有重复的直播片段或缺少数据。
+造成这个问题的原因可能是录播姬所连接的直播服务器与它的上级服务器的连接断开重连了。
+数据内容: [{"Type":"String","Value":"onMetaData"},{"Type":"Object","Value":{"actual_vbitrate_bps":{"Type":"Number","Value":8053091.0},"audiochannels":{"Type":"Number","Value":2.0},"server_version":{"Type":"String","Value":"2.0.209/1775703684639"},"fileSize":{"Type":"Number","Value":0.0},"7.1":{"Type":"Boolean","Value":false},"audiodatarate":{"Type":"Number","Value":192.0},"cascadeTs":{"Type":"String","Value":"/1775831325727/1775831325727/1775831325349/1775831325349/1775831325817/1775857824467/1775857824617"},"fps":{"Type":"Number","Value":60.0},"audiosamplerate":{"Type":"Number","Value":48000.0},"5.1":{"Type":"Boolean","Value":false},"actual_abitrate_bps":{"Type":"Number","Value":199759.0},"width":{"Type":"Number","Value":1920.0},"audiocodecid":{"Type":"Number","Value":10.0},"2.1":{"Type":"Boolean","Value":false},"height":{"Type":"Number","Value":1080.0},"cascadeID":{"Type":"String","Value":"/[55905][7235531]/[55905][7235530]/[42950][7205927]/[42950][7205926]/[51313][1508161]/[39840][1862400]/[39840][1862399]"},"audiosamplesize":{"Type":"Number","Value":16.0},"videodatarate":{"Type":"Number","Value":8000.0},"encoder":{"Type":"String","Value":"obs-output module (libobs version 32.1.1)"},"displayWidth":{"Type":"Number","Value":1920.0},"3.1":{"Type":"Boolean","Value":false},"4.0":{"Type":"Boolean","Value":false},"displayHeight":{"Type":"Number","Value":1080.0},"cdn_ip":{"Type":"String","Value":"192.168.252.5"},"framerate":{"Type":"Number","Value":60.0},"videocodecid":{"Type":"Number","Value":7.0},"4.1":{"Type":"Boolean","Value":false},"stereo":{"Type":"Boolean","Value":true}}},{"Type":"Null"}]
+-----记录结束-----

@@ -1,0 +1,27 @@
+﻿此文件内记录了对应的视频文件中可能存在的问题
+mikufans录播姬 2.17.3
+
+-----记录开始-----
+记录时间: 2026-03-10T16:54:36.3139269+00:00
+视频时间: 00:00:04.464
+文件位置: 3544951 字节
+收到直播服务器发送的 onMetaData 数据，请检查此位置是否有重复的直播片段或缺少数据。
+造成这个问题的原因可能是录播姬所连接的直播服务器与它的上级服务器的连接断开重连了。
+数据内容: [{"Type":"String","Value":"onMetaData"},{"Type":"Object","Value":{"audiodatarate":{"Type":"Number","Value":192.0},"cascadeID":{"Type":"String","Value":"/[14457][36561497]/[14457][36561495]/[34873][36689764]/[34873][36689763]/[20116][10268551]/[20116][10268549]/[26165][9723929]/[26165][9723928]"},"encoder":{"Type":"String","Value":"obs-output module (libobs version 31.1.2)"},"height":{"Type":"Number","Value":1080.0},"cdn_ip":{"Type":"String","Value":"192.168.252.7"},"videodatarate":{"Type":"Number","Value":8000.0},"fps":{"Type":"Number","Value":60.0},"framerate":{"Type":"Number","Value":60.0},"videocodecid":{"Type":"Number","Value":7.0},"width":{"Type":"Number","Value":1920.0},"displayWidth":{"Type":"Number","Value":1920.0},"displayHeight":{"Type":"Number","Value":1080.0},"audiocodecid":{"Type":"Number","Value":10.0},"cascadeTs":{"Type":"String","Value":"/1773161675042/1773161675042/1773161675622/1773161675622/1773161675610/1773161675610/1773161675323/1773161675323"},"level":{"Type":"String","Value":""},"Rawdata":{"Type":"String","Value":""},"server_version":{"Type":"String","Value":"2.0.209/1772247612265"},"profile":{"Type":"String","Value":""}}},{"Type":"Null"}]
+-----记录结束-----
+-----记录开始-----
+记录时间: 2026-03-10T16:54:44.1824814+00:00
+视频时间: 00:00:08.747
+文件位置: 6984826 字节
+收到直播服务器发送的 onMetaData 数据，请检查此位置是否有重复的直播片段或缺少数据。
+造成这个问题的原因可能是录播姬所连接的直播服务器与它的上级服务器的连接断开重连了。
+数据内容: [{"Type":"String","Value":"onMetaData"},{"Type":"Object","Value":{"fps":{"Type":"Number","Value":60.0},"displayHeight":{"Type":"Number","Value":1080.0},"encoder":{"Type":"String","Value":"obs-output module (libobs version 31.1.2)"},"server_version":{"Type":"String","Value":"2.0.209/1772247621304"},"displayWidth":{"Type":"Number","Value":1920.0},"cascadeID":{"Type":"String","Value":"/[14457][36561497]/[14457][36561495]/[34873][36689764]/[34873][36689763]/[20116][10268551]/[18526][10798501]/[18526][10798500]"},"actual_vbitrate_bps":{"Type":"Number","Value":8191195.0},"Rawdata":{"Type":"String","Value":""},"cascadeTs":{"Type":"String","Value":"/1773161675042/1773161675042/1773161675622/1773161675622/1773161675610/1773161683751/1773161683896"},"actual_abitrate_bps":{"Type":"Number","Value":194298.0},"height":{"Type":"Number","Value":1080.0},"videocodecid":{"Type":"Number","Value":7.0},"cdn_ip":{"Type":"String","Value":"192.168.252.7"},"audiodatarate":{"Type":"Number","Value":192.0},"profile":{"Type":"String","Value":""},"level":{"Type":"String","Value":""},"width":{"Type":"Number","Value":1920.0},"videodatarate":{"Type":"Number","Value":8000.0},"framerate":{"Type":"Number","Value":60.0},"audiocodecid":{"Type":"Number","Value":10.0}}},{"Type":"Null"}]
+-----记录结束-----
+-----记录开始-----
+记录时间: 2026-03-10T16:54:49.1768963+00:00
+视频时间: 00:00:08.747
+文件位置: 6984826 字节
+收到直播服务器发送的 onMetaData 数据，请检查此位置是否有重复的直播片段或缺少数据。
+造成这个问题的原因可能是录播姬所连接的直播服务器与它的上级服务器的连接断开重连了。
+数据内容: [{"Type":"String","Value":"onMetaData"},{"Type":"Object","Value":{"server_version":{"Type":"String","Value":"2.0.209/1772247613132"},"actual_abitrate_bps":{"Type":"Number","Value":194298.0},"height":{"Type":"Number","Value":1080.0},"profile":{"Type":"String","Value":""},"framerate":{"Type":"Number","Value":60.0},"Rawdata":{"Type":"String","Value":""},"videocodecid":{"Type":"Number","Value":7.0},"displayHeight":{"Type":"Number","Value":1080.0},"encoder":{"Type":"String","Value":"obs-output module (libobs version 31.1.2)"},"actual_vbitrate_bps":{"Type":"Number","Value":8191195.0},"audiodatarate":{"Type":"Number","Value":192.0},"videodatarate":{"Type":"Number","Value":8000.0},"displayWidth":{"Type":"Number","Value":1920.0},"fps":{"Type":"Number","Value":60.0},"cascadeID":{"Type":"String","Value":"/[14457][36561497]/[14457][36561495]/[34873][36689764]/[34873][36689763]/[20116][10268551]/[23969][10017111]/[23969][10017110]"},"cdn_ip":{"Type":"String","Value":"192.168.252.7"},"level":{"Type":"String","Value":""},"cascadeTs":{"Type":"String","Value":"/1773161675042/1773161675042/1773161675622/1773161675622/1773161675610/1773161688368/1773161688908"},"audiocodecid":{"Type":"Number","Value":10.0},"width":{"Type":"Number","Value":1920.0}}},{"Type":"Null"}]
+-----记录结束-----

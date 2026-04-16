@@ -1,0 +1,63 @@
+[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+Timer: 100.0000
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+
+Style: R2L,Noto Sans CJK SC,55,&H00FFFFFF,&H00FFFFFF,&H00000000,&H1E6A5149,0,0,0,0,100.00,100.00,0.00,0.00,1,1.0,1.0,8,0,0,0,1
+Style: L2R,Noto Sans CJK SC,55,&H00FFFFFF,&H00FFFFFF,&H00000000,&H1E6A5149,0,0,0,0,100.00,100.00,0.00,0.00,1,1.0,1.0,8,0,0,0,1
+Style: TOP,Noto Sans CJK SC,55,&H00FFFFFF,&H00FFFFFF,&H00000000,&H1E6A5149,0,0,0,0,100.00,100.00,0.00,0.00,1,1.0,1.0,8,0,0,0,1
+Style: BTM,Noto Sans CJK SC,55,&H00FFFFFF,&H00FFFFFF,&H00000000,&H1E6A5149,0,0,0,0,100.00,100.00,0.00,0.00,1,1.0,1.0,8,0,0,0,1
+Style: SP,Noto Sans CJK SC,55,&H00FFFFFF,&H00FFFFFF,&H00000000,&H1E6A5149,0,0,0,0,100.00,100.00,0.00,0.00,1,1.0,1.0,7,0,0,0,1
+Style: message_box,Noto Sans CJK SC,38,&H00FFFFFF,&H00FFFFFF,&H00000000,&H1E6A5149,0,0,0,0,100.00,100.00,0.00,0.00,1,0.7,0.7,7,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.08,0:00:17.08,R2L,,0000,0000,0000,,{\move(2195,1,-275,1)}{\c&HBCACF7}クリーム松饼:\h{\c&HFFFFFF}不是吗[哇]
+Dialogue: 0,0:00:06.08,0:00:18.08,R2L,,0000,0000,0000,,{\move(2194,57,-274,57)}{\c&HBCACF7}奶油松饼bot:\h{\c&HFFFFFF}这是za吗
+Dialogue: 0,0:00:09.92,0:00:21.92,R2L,,0000,0000,0000,,{\move(2332,1,-412,1)}{\c&HBCACF7}蒙一太奇丶:\h{\c&HFFFFFF}你这说的\h\h都主播朋友\h\h
+Dialogue: 0,0:00:12.52,0:00:24.52,R2L,,0000,0000,0000,,{\move(2126,57,-206,57)}{\c&HBCACF7}蒙一太奇丶:\h{\c&HFFFFFF}别造谣啊
+Dialogue: 0,0:00:16.84,0:00:28.84,R2L,,0000,0000,0000,,{\move(2446,1,-526,1)}{\c&HBCACF7}vyjfgufhugjyfu:\h{\c&HFFFFFF}那金河田是怎么回事
+Dialogue: 0,0:00:19.25,0:00:31.25,R2L,,0000,0000,0000,,{\move(2217,57,-297,57)}{\c&HBCACF7}奶油松饼bot:\h{\c&HFFFFFF}@婴礻\h是的
+Dialogue: 0,0:00:29.37,0:00:41.37,R2L,,0000,0000,0000,,{\move(2423,1,-503,1)}{\c&HBCACF7}vyjfgufhugjyfu:\h{\c&HFFFFFF}金河田是你炸的吗
+Dialogue: 0,0:00:30.30,0:00:42.30,R2L,,0000,0000,0000,,{\move(2492,57,-572,57)}{\c&HBCACF7}奶油松饼bot:\h{\c&HFFFFFF}排除法，不是排除哪个有仇，是哪个没仇
+Dialogue: 0,0:00:47.22,0:00:59.22,R2L,,0000,0000,0000,,{\move(2263,1,-343,1)}{\c&HBCACF7}奶油松饼bot:\h{\c&HFFFFFF}那咋了[dog]
+Dialogue: 0,0:01:12.80,0:01:24.80,R2L,,0000,0000,0000,,{\move(2217,1,-297,1)}{\c&HBCACF7}小乙0888:\h{\c&HFFFFFF}？？？？？？？
+Dialogue: 0,0:01:24.63,0:01:36.63,R2L,,0000,0000,0000,,{\move(2217,1,-297,1)}{\c&HBCACF7}奶油松饼bot:\h{\c&HFFFFFF}做梦没醒呢？
+Dialogue: 0,0:01:52.78,0:02:04.78,R2L,,0000,0000,0000,,{\move(2148,1,-228,1)}{\c&HBCACF7}奶油松饼bot:\h{\c&HFFFFFF}梦醒了
+Dialogue: 0,0:02:13.00,0:02:25.00,R2L,,0000,0000,0000,,{\move(2446,1,-526,1)}{\c&HBCACF7}奶油松饼bot:\h{\c&HFFFFFF}一般市民哪认得到超梦啊[dog]
+Dialogue: 0,0:02:21.39,0:02:33.39,R2L,,0000,0000,0000,,{\move(2195,1,-275,1)}{\c&HBCACF7}クリーム松饼:\h{\c&HFFFFFF}不是吗[哇]
+Dialogue: 0,0:02:23.69,0:02:35.69,R2L,,0000,0000,0000,,{\move(2538,57,-618,57)}{\c&HBCACF7}奶油松饼bot:\h{\c&HFFFFFF}主播，我还是喜欢看你播4个小人打架的游戏
+Dialogue: 0,0:02:33.53,0:02:45.53,R2L,,0000,0000,0000,,{\move(2149,1,-229,1)}{\c&HBCACF7}遇上永恒:\h{\c&HFFFFFF}同事都是恩人
+Dialogue: 0,0:03:33.50,0:03:45.50,R2L,,0000,0000,0000,,{\move(2423,1,-503,1)}{\c&HBCACF7}奶油松饼bot:\h{\c&HFFFFFF}主播，我还是想看你鼓大包的游戏
+Dialogue: 0,0:03:36.14,0:03:48.14,R2L,,0000,0000,0000,,{\move(2905,57,-985,57)}{\c&HBCACF7}奶油松饼bot:\h{\c&HFFFFFF}我现在刷花呗套8000出来，你播4个小人打架的游戏，我压左边赢[dog]
+Dialogue: 0,0:03:45.51,0:03:57.51,R2L,,0000,0000,0000,,{\move(2355,1,-435,1)}{\c&HBCACF7}奶油松饼bot:\h{\c&HFFFFFF}@填写名字\h乐[dog]
+Dialogue: 0,0:04:06.98,0:04:18.98,R2L,,0000,0000,0000,,{\move(2103,1,-183,1)}{\c&HBCACF7}蒙一太奇丶:\h{\c&HFFFFFF}腾腾蛇
+Dialogue: 0,0:04:40.45,0:04:52.45,R2L,,0000,0000,0000,,{\move(2469,1,-549,1)}{\c&HBCACF7}奶油松饼bot:\h{\c&HFFFFFF}这游戏谁的种族值最高？多少种族值？
+Dialogue: 0,0:04:51.55,0:05:03.55,R2L,,0000,0000,0000,,{\move(2103,1,-183,1)}{\c&HBCACF7}クリーム松饼:\h{\c&HFFFFFF}赔钱
+Dialogue: 0,0:04:57.90,0:05:09.90,R2L,,0000,0000,0000,,{\move(2194,1,-274,1)}{\c&HBCACF7}蒙一太奇丶:\h{\c&HFFFFFF}你要给他解毒剂
+Dialogue: 0,0:05:01.03,0:05:13.03,R2L,,0000,0000,0000,,{\move(2194,1,-274,1)}{\c&HBCACF7}遇上永恒:\h{\c&HFFFFFF}给人家打狂犬疫苗
+Dialogue: 0,0:05:30.15,0:05:42.15,R2L,,0000,0000,0000,,{\move(2607,1,-687,1)}{\c&HBCACF7}蒙一太奇丶:\h{\c&HFFFFFF}不过主播可以模仿胖哥\h\h\h是他咬的\h和主播没有关系
+Dialogue: 0,0:05:38.61,0:05:50.61,R2L,,0000,0000,0000,,{\move(2309,1,-389,1)}{\c&HBCACF7}遇上永恒:\h{\c&HFFFFFF}[哇]这游戏有慢启动特性吗
+Dialogue: 0,0:05:39.54,0:05:51.54,R2L,,0000,0000,0000,,{\move(2400,57,-480,57)}{\c&HBCACF7}奶油松饼bot:\h{\c&HFFFFFF}有多高？比我胖哥闪光了还高？
+Dialogue: 0,0:05:46.25,0:05:58.25,R2L,,0000,0000,0000,,{\move(2469,1,-549,1)}{\c&HBCACF7}蒙一太奇丶:\h{\c&HFFFFFF}然后再补一句\h\h我还能管宝可梦的生活吗
+Dialogue: 0,0:05:51.60,0:06:03.60,R2L,,0000,0000,0000,,{\move(2332,1,-412,1)}{\c&HBCACF7}奶油松饼bot:\h{\c&HFFFFFF}我胖哥闪一下就8000
+Dialogue: 0,0:05:55.55,0:06:07.55,R2L,,0000,0000,0000,,{\move(2423,57,-503,57)}{\c&HBCACF7}奶油松饼bot:\h{\c&HFFFFFF}主播怎么不上8000证明自己了
+Dialogue: 0,0:06:07.82,0:06:19.82,R2L,,0000,0000,0000,,{\move(2332,1,-412,1)}{\c&HBCACF7}奶油松饼bot:\h{\c&HFFFFFF}这不藤藤蛇吗[dog]
+Dialogue: 0,0:06:32.08,0:06:44.08,R2L,,0000,0000,0000,,{\move(2286,1,-366,1)}{\c&HBCACF7}奶油松饼bot:\h{\c&HFFFFFF}拿金河田炸一下试试
+Dialogue: 0,0:06:53.88,0:07:05.88,R2L,,0000,0000,0000,,{\move(2263,1,-343,1)}{\c&HBCACF7}遇上永恒:\h{\c&HFFFFFF}那这和慢启动有什么区别
+Dialogue: 0,0:07:39.56,0:07:51.56,R2L,,0000,0000,0000,,{\move(2309,1,-389,1)}{\c&HBCACF7}vyjfgufhugjyfu:\h{\c&HFFFFFF}河武器
+Dialogue: 0,0:07:43.21,0:07:55.21,R2L,,0000,0000,0000,,{\move(2217,1,-297,1)}{\c&HBCACF7}奶油松饼bot:\h{\c&HFFFFFF}乐[dog]
+Dialogue: 0,0:08:15.45,0:08:27.45,R2L,,0000,0000,0000,,{\move(2377,1,-457,1)}{\c&HBCACF7}奶油松饼bot:\h{\c&HFFFFFF}他手里拿的金河田怎么胖胖的
+Dialogue: 0,0:08:16.79,0:08:28.79,R2L,,0000,0000,0000,,{\move(2126,57,-206,57)}{\c&HBCACF7}蒙一太奇丶:\h{\c&HFFFFFF}区别大了
+Dialogue: 0,0:08:31.64,0:08:43.64,R2L,,0000,0000,0000,,{\move(2309,1,-389,1)}{\c&HBCACF7}蒙一太奇丶:\h{\c&HFFFFFF}慢启动可以化学气体消特性
+Dialogue: 0,0:08:42.38,0:08:54.38,R2L,,0000,0000,0000,,{\move(2469,1,-549,1)}{\c&HBCACF7}蒙一太奇丶:\h{\c&HFFFFFF}这个覆盖不了\h\h该半血变身还是半血变身
+Dialogue: 0,0:09:28.05,0:09:40.05,R2L,,0000,0000,0000,,{\move(2148,1,-228,1)}{\c&HBCACF7}奶油松饼bot:\h{\c&HFFFFFF}那咋了
+Dialogue: 0,0:09:32.48,0:09:44.48,R2L,,0000,0000,0000,,{\move(2103,1,-183,1)}{\c&HBCACF7}晓风丿自然:\h{\c&HFFFFFF}走马灯
+Dialogue: 0,0:09:33.42,0:09:45.42,R2L,,0000,0000,0000,,{\move(2148,57,-228,57)}{\c&HBCACF7}奶油松饼bot:\h{\c&HFFFFFF}梦醒啦

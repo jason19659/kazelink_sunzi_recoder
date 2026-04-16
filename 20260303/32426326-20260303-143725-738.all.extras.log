@@ -1,0 +1,242 @@
+/webhook/venv/lib/python3.10/site-packages/danmaku_tools/danmaku_energy_map.py:24: DeprecationWarning: Please import `convolve` from the `scipy.ndimage` namespace; the `scipy.ndimage.filters` namespace is deprecated and will be removed in SciPy 2.0.0.
+  from scipy.ndimage.filters import convolve
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.455 seconds.
+Prefix dict has been built successfully.
+  0%|          | 0/81 [00:00<?, ?it/s]3
+52
+4
+15
+39
+  6%|▌         | 5/81 [00:00<00:02, 31.47it/s]4
+12
+29
+10
+6
+3
+2
+35
+ 16%|█▌        | 13/81 [00:00<00:01, 50.91it/s]18
+3
+0
+3
+2
+12
+80
+ 25%|██▍       | 20/81 [00:00<00:01, 44.92it/s]87
+35
+18
+36
+3
+ 31%|███       | 25/81 [00:00<00:01, 32.23it/s]4
+0
+48
+1
+0
+4
+7
+ 40%|███▉      | 32/81 [00:00<00:01, 40.77it/s]20
+23
+2
+0
+2
+24
+1
+1
+25
+ 51%|█████     | 41/81 [00:00<00:00, 50.19it/s]2
+0
+22
+1
+11
+0
+43
+0
+14
+ 62%|██████▏   | 50/81 [00:01<00:00, 58.44it/s]18
+3
+2
+0
+1
+3
+6
+0
+0
+0
+11
+24
+9
+2
+3
+ 80%|████████  | 65/81 [00:01<00:00, 81.33it/s]4
+1
+4
+0
+9
+232
+0
+3
+0
+2
+ 93%|█████████▎| 75/81 [00:01<00:00, 55.88it/s]5
+11
+30
+0
+36
+40
+100%|██████████| 81/81 [00:01<00:00, 48.34it/s]
+
+DanmakuFactory 1.70 CLI Release by hkm (hkm@tikm.org)
+https://github.com/hihkm/DanmakuFactory
+
+Input file(s):
+Number|Template     |TimeShift|FileName
+     1|xml          |   0.000s|/storage/32426326/20260303/32426326-20260303-143725-738.all.clean.xml
+
+Output file:
+Format|FileName
+   ass|/storage/32426326/20260303/32426326-20260303-143725-738.all.ass
+
+Loading files...
+Loading file "/storage/32426326/20260303/32426326-20260303-143725-738.all.clean.xml"
+
+File Loading Complete.. Danmaku Pool: 2527
+
+Sorting...
+
+Writting file "/storage/32426326/20260303/32426326-20260303-143725-738.all.ass"...
+
+Done!
+/webhook/venv/lib/python3.10/site-packages/danmaku_tools/danmaku_energy_map.py:24: DeprecationWarning: Please import `convolve` from the `scipy.ndimage` namespace; the `scipy.ndimage.filters` namespace is deprecated and will be removed in SciPy 2.0.0.
+  from scipy.ndimage.filters import convolve
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.394 seconds.
+Prefix dict has been built successfully.
+  0%|          | 0/98 [00:00<?, ?it/s]3
+52
+4
+15
+39
+  5%|▌         | 5/98 [00:00<00:02, 37.64it/s]4
+12
+29
+10
+6
+3
+2
+35
+ 13%|█▎        | 13/98 [00:00<00:01, 56.34it/s]18
+3
+0
+4
+1
+12
+80
+ 20%|██        | 20/98 [00:00<00:01, 58.23it/s]87
+35
+18
+36
+3
+4
+ 27%|██▋       | 26/98 [00:00<00:01, 40.61it/s]0
+48
+1
+4
+7
+20
+ 33%|███▎      | 32/98 [00:00<00:01, 44.43it/s]23
+2
+0
+2
+24
+1
+1
+25
+4
+0
+22
+ 44%|████▍     | 43/98 [00:00<00:00, 58.95it/s]1
+11
+0
+43
+0
+14
+18
+3
+ 52%|█████▏    | 51/98 [00:00<00:00, 64.20it/s]2
+0
+1
+3
+6
+0
+0
+0
+11
+24
+8
+2
+3
+4
+1
+5
+0
+9
+232
+ 71%|███████▏  | 70/98 [00:01<00:00, 57.53it/s]0
+3
+2
+3
+11
+30
+0
+ 79%|███████▊  | 77/98 [00:01<00:00, 56.94it/s]36
+54
+11
+2
+57
+6
+8
+ 86%|████████▌ | 84/98 [00:01<00:00, 39.58it/s]12
+1
+2
+3
+33
+2
+ 92%|█████████▏| 90/98 [00:01<00:00, 42.55it/s]10
+6
+0
+4
+24
+0
+ 98%|█████████▊| 96/98 [00:01<00:00, 44.58it/s]13
+9
+100%|██████████| 98/98 [00:01<00:00, 49.12it/s]
+
+DanmakuFactory 1.70 CLI Release by hkm (hkm@tikm.org)
+https://github.com/hihkm/DanmakuFactory
+
+Input file(s):
+Number|Template     |TimeShift|FileName
+     1|xml          |   0.000s|/storage/32426326/20260303/32426326-20260303-143725-738.all.clean.xml
+
+Output file:
+Format|FileName
+   ass|/storage/32426326/20260303/32426326-20260303-143725-738.all.ass
+
+Loading files...
+Loading file "/storage/32426326/20260303/32426326-20260303-143725-738.all.clean.xml"
+
+File Loading Complete.. Danmaku Pool: 3608
+
+Sorting...
+
+Writting file "/storage/32426326/20260303/32426326-20260303-143725-738.all.ass"...
+
+WARNING
+File "/storage/32426326/20260303/32426326-20260303-143725-738.all.ass" already exists, it will be overwritten when continue.
+
+Skip!
+
+Done!
