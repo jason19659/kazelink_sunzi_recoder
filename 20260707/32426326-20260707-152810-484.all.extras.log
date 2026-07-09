@@ -1,0 +1,91 @@
+/webhook/venv/lib/python3.10/site-packages/danmaku_tools/danmaku_energy_map.py:24: DeprecationWarning: Please import `convolve` from the `scipy.ndimage` namespace; the `scipy.ndimage.filters` namespace is deprecated and will be removed in SciPy 2.0.0.
+  from scipy.ndimage.filters import convolve
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.650 seconds.
+Prefix dict has been built successfully.
+  0%|          | 0/62 [00:00<?, ?it/s]26
+10
+50
+  5%|▍         | 3/62 [00:00<00:03, 16.86it/s]264
+9
+  8%|▊         | 5/62 [00:00<00:12,  4.55it/s]54
+ 10%|▉         | 6/62 [00:01<00:11,  4.76it/s]50
+ 11%|█▏        | 7/62 [00:01<00:10,  5.13it/s]11
+53
+ 15%|█▍        | 9/62 [00:01<00:07,  7.22it/s]29
+1
+7
+115
+ 21%|██        | 13/62 [00:01<00:04, 10.58it/s]29
+12
+13
+5
+19
+ 29%|██▉       | 18/62 [00:01<00:02, 15.82it/s]5
+75
+ 32%|███▏      | 20/62 [00:01<00:02, 15.56it/s]53
+75
+ 35%|███▌      | 22/62 [00:02<00:02, 14.15it/s]10
+35
+30
+ 40%|████      | 25/62 [00:02<00:02, 17.00it/s]3
+2
+41
+7
+49
+ 48%|████▊     | 30/62 [00:02<00:01, 22.74it/s]36
+26
+5
+23
+27
+3
+7
+3
+ 61%|██████▏   | 38/62 [00:02<00:00, 35.25it/s]29
+1
+14
+26
+2
+4
+3
+23
+ 74%|███████▍  | 46/62 [00:02<00:00, 41.77it/s]73
+1
+17
+2
+12
+ 82%|████████▏ | 51/62 [00:02<00:00, 39.02it/s]11
+46
+15
+8
+6
+1
+3
+ 94%|█████████▎| 58/62 [00:02<00:00, 45.64it/s]11
+0
+17
+0
+100%|██████████| 62/62 [00:02<00:00, 21.22it/s]
+
+DanmakuFactory 1.70 CLI Release by hkm (hkm@tikm.org)
+https://github.com/hihkm/DanmakuFactory
+
+Input file(s):
+Number|Template     |TimeShift|FileName
+     1|xml          |   0.000s|/storage/32426326/20260707/32426326-20260707-152810-484.all.clean.xml
+
+Output file:
+Format|FileName
+   ass|/storage/32426326/20260707/32426326-20260707-152810-484.all.ass
+
+Loading files...
+Loading file "/storage/32426326/20260707/32426326-20260707-152810-484.all.clean.xml"
+
+File Loading Complete.. Danmaku Pool: 4396
+
+Sorting...
+
+Writting file "/storage/32426326/20260707/32426326-20260707-152810-484.all.ass"...
+
+Done!

@@ -1,0 +1,118 @@
+/webhook/venv/lib/python3.10/site-packages/danmaku_tools/danmaku_energy_map.py:24: DeprecationWarning: Please import `convolve` from the `scipy.ndimage` namespace; the `scipy.ndimage.filters` namespace is deprecated and will be removed in SciPy 2.0.0.
+  from scipy.ndimage.filters import convolve
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.644 seconds.
+Prefix dict has been built successfully.
+  0%|          | 0/89 [00:00<?, ?it/s]1
+7
+2
+1
+11
+0
+16
+27
+58
+ 10%|█         | 9/89 [00:00<00:01, 45.81it/s]12
+135
+59
+193
+1
+ 16%|█▌        | 14/89 [00:00<00:04, 16.18it/s]4
+61
+83
+ 19%|█▉        | 17/89 [00:00<00:04, 16.76it/s]5
+4
+5
+20
+80
+ 25%|██▍       | 22/89 [00:01<00:03, 20.47it/s]8
+72
+53
+ 28%|██▊       | 25/89 [00:01<00:03, 19.11it/s]29
+6
+25
+46
+ 33%|███▎      | 29/89 [00:01<00:02, 22.63it/s]43
+1
+6
+20
+8
+7
+23
+ 40%|████      | 36/89 [00:01<00:01, 32.34it/s]6
+87
+51
+12
+1
+ 46%|████▌     | 41/89 [00:01<00:01, 28.97it/s]1
+36
+1
+13
+10
+25
+ 53%|█████▎    | 47/89 [00:01<00:01, 35.12it/s]0
+0
+2
+32
+32
+1
+21
+18
+ 62%|██████▏   | 55/89 [00:01<00:00, 44.03it/s]0
+5
+51
+0
+13
+6
+ 69%|██████▊   | 61/89 [00:02<00:00, 45.67it/s]0
+3
+1
+12
+0
+11
+4
+6
+3
+6
+1
+5
+3
+2
+2
+0
+1
+1
+11
+11
+1
+22
+ 93%|█████████▎| 83/89 [00:02<00:00, 86.14it/s]20
+0
+0
+14
+2
+11
+100%|██████████| 89/89 [00:02<00:00, 40.35it/s]
+
+DanmakuFactory 1.70 CLI Release by hkm (hkm@tikm.org)
+https://github.com/hihkm/DanmakuFactory
+
+Input file(s):
+Number|Template     |TimeShift|FileName
+     1|xml          |   0.000s|/storage/32426326/20260625/32426326-20260625-150401-333.all.clean.xml
+
+Output file:
+Format|FileName
+   ass|/storage/32426326/20260625/32426326-20260625-150401-333.all.ass
+
+Loading files...
+Loading file "/storage/32426326/20260625/32426326-20260625-150401-333.all.clean.xml"
+
+File Loading Complete.. Danmaku Pool: 4064
+
+Sorting...
+
+Writting file "/storage/32426326/20260625/32426326-20260625-150401-333.all.ass"...
+
+Done!
