@@ -1,0 +1,19 @@
+﻿此文件内记录了对应的视频文件中可能存在的问题
+mikufans录播姬 2.17.3
+
+-----记录开始-----
+记录时间: 2026-07-30T01:44:18.6463867+00:00
+视频时间: 01:05:28.888
+文件位置: 3183882720 字节
+收到直播服务器发送的 onMetaData 数据，请检查此位置是否有重复的直播片段或缺少数据。
+造成这个问题的原因可能是录播姬所连接的直播服务器与它的上级服务器的连接断开重连了。
+数据内容: [{"Type":"String","Value":"onMetaData"},{"Type":"Object","Value":{"displayHeight":{"Type":"Number","Value":1080.0},"actual_abitrate_bps":{"Type":"Number","Value":194033.0},"encoder":{"Type":"String","Value":"obs-output module (libobs vers"},"actual_vbitrate_bps":{"Type":"Number","Value":605771.0},"stereo":{"Type":"Boolean","Value":true},"videocodecid":{"Type":"Number","Value":7.0},"traceid":{"Type":"String","Value":""},"audiosamplerate":{"Type":"Number","Value":48000.0},"cdn_ip":{"Type":"String","Value":"156.59.188.245"},"cascadeTs":{"Type":"String","Value":"/1785371926222/1785371926222/1785371925664/1785371925664/1785371926206/1785375855623/1785375856187"},"width":{"Type":"Number","Value":1920.0},"numdisposableframes":{"Type":"Number","Value":0.0},"audiosamplesize":{"Type":"Number","Value":16.0},"videodatarate":{"Type":"Number","Value":12239.51953125},"cascadeID":{"Type":"String","Value":"/[124236][7645506]/[124236][7645504]/[220515][7115491]/[220515][7115490]/[52607][3486528]/[1832][3426837]/[1832][3426836]"},"displayWidth":{"Type":"Number","Value":1920.0},"fps":{"Type":"Number","Value":60.0},"audiocodecid":{"Type":"Number","Value":10.0},"audiodatarate":{"Type":"Number","Value":192.0},"height":{"Type":"Number","Value":1080.0},"framerate":{"Type":"Number","Value":60.0},"server_version":{"Type":"String","Value":"2.0.209/1785208032728"}}},{"Type":"Null"}]
+-----记录结束-----
+-----记录开始-----
+记录时间: 2026-07-30T01:44:21.3861167+00:00
+视频时间: 01:05:28.888
+文件位置: 3183882720 字节
+收到直播服务器发送的 onMetaData 数据，请检查此位置是否有重复的直播片段或缺少数据。
+造成这个问题的原因可能是录播姬所连接的直播服务器与它的上级服务器的连接断开重连了。
+数据内容: [{"Type":"String","Value":"onMetaData"},{"Type":"Object","Value":{"height":{"Type":"Number","Value":1080.0},"stereo":{"Type":"Boolean","Value":true},"audiosamplesize":{"Type":"Number","Value":16.0},"videodatarate":{"Type":"Number","Value":12239.51953125},"displayWidth":{"Type":"Number","Value":1920.0},"audiodatarate":{"Type":"Number","Value":192.0},"framerate":{"Type":"Number","Value":60.0},"numdisposableframes":{"Type":"Number","Value":0.0},"cdn_ip":{"Type":"String","Value":"156.59.188.245"},"actual_abitrate_bps":{"Type":"Number","Value":194033.0},"videocodecid":{"Type":"Number","Value":7.0},"width":{"Type":"Number","Value":1920.0},"actual_vbitrate_bps":{"Type":"Number","Value":605771.0},"server_version":{"Type":"String","Value":"2.0.209/1785208032094"},"fps":{"Type":"Number","Value":60.0},"encoder":{"Type":"String","Value":"obs-output module (libobs vers"},"audiosamplerate":{"Type":"Number","Value":48000.0},"audiocodecid":{"Type":"Number","Value":10.0},"displayHeight":{"Type":"Number","Value":1080.0},"cascadeID":{"Type":"String","Value":"/[124236][7645506]/[124236][7645504]/[220515][7115491]/[220515][7115490]/[52607][3486528]/[35368][3525000]/[35368][3524999]"},"cascadeTs":{"Type":"String","Value":"/1785371926222/1785371926222/1785371925664/1785371925664/1785371926206/1785375860542/1785375861187"},"traceid":{"Type":"String","Value":""}}},{"Type":"Null"}]
+-----记录结束-----
