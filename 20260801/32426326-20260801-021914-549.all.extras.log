@@ -1,0 +1,134 @@
+/webhook/venv/lib/python3.10/site-packages/danmaku_tools/danmaku_energy_map.py:24: DeprecationWarning: Please import `convolve` from the `scipy.ndimage` namespace; the `scipy.ndimage.filters` namespace is deprecated and will be removed in SciPy 2.0.0.
+  from scipy.ndimage.filters import convolve
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.564 seconds.
+Prefix dict has been built successfully.
+  0%|          | 0/105 [00:00<?, ?it/s]9
+0
+0
+3
+31
+1
+1
+13
+10
+6
+19
+ 10%|█         | 11/105 [00:00<00:01, 88.42it/s]0
+2
+0
+17
+0
+0
+11
+2
+2
+1
+33
+19
+ 22%|██▏       | 23/105 [00:00<00:00, 100.54it/s]13
+9
+2
+7
+27
+19
+17
+1
+17
+17
+3
+ 32%|███▏      | 34/105 [00:00<00:00, 81.92it/s] 56
+2
+16
+39
+53
+8
+2
+0
+18
+ 41%|████      | 43/105 [00:00<00:00, 76.71it/s]47
+27
+2
+39
+19
+0
+0
+12
+ 49%|████▊     | 51/105 [00:00<00:00, 63.68it/s]18
+0
+3
+8
+6
+2
+51
+6
+9
+ 57%|█████▋    | 60/105 [00:00<00:00, 66.98it/s]28
+0
+40
+53
+0
+5
+4
+ 64%|██████▍   | 67/105 [00:00<00:00, 57.80it/s]47
+25
+24
+37
+31
+43
+7
+ 70%|███████   | 74/105 [00:01<00:00, 51.22it/s]35
+37
+19
+7
+3
+26
+ 76%|███████▌  | 80/105 [00:01<00:00, 45.77it/s]12
+1
+12
+0
+0
+1
+5
+3
+6
+1
+2
+0
+5
+0
+ 90%|████████▉ | 94/105 [00:01<00:00, 66.03it/s]0
+1
+2
+9
+0
+0
+10
+10
+0
+8
+8
+100%|██████████| 105/105 [00:01<00:00, 69.10it/s]
+
+DanmakuFactory 1.70 CLI Release by hkm (hkm@tikm.org)
+https://github.com/hihkm/DanmakuFactory
+
+Input file(s):
+Number|Template     |TimeShift|FileName
+     1|xml          |   0.000s|/storage/32426326/20260801/32426326-20260801-021914-549.all.clean.xml
+
+Output file:
+Format|FileName
+   ass|/storage/32426326/20260801/32426326-20260801-021914-549.all.ass
+
+Loading files...
+Loading file "/storage/32426326/20260801/32426326-20260801-021914-549.all.clean.xml"
+
+File Loading Complete.. Danmaku Pool: 2622
+
+Sorting...
+
+Writting file "/storage/32426326/20260801/32426326-20260801-021914-549.all.ass"...
+
+Done!

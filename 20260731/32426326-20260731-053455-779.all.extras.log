@@ -1,0 +1,128 @@
+/webhook/venv/lib/python3.10/site-packages/danmaku_tools/danmaku_energy_map.py:24: DeprecationWarning: Please import `convolve` from the `scipy.ndimage` namespace; the `scipy.ndimage.filters` namespace is deprecated and will be removed in SciPy 2.0.0.
+  from scipy.ndimage.filters import convolve
+Building prefix dict from the default dictionary ...
+Dumping model to file cache /tmp/jieba.cache
+Loading model cost 0.684 seconds.
+Prefix dict has been built successfully.
+  0%|          | 0/99 [00:00<?, ?it/s]8
+10
+10
+4
+87
+  5%|▌         | 5/99 [00:00<00:02, 35.76it/s]53
+0
+6
+4
+22
+11
+ 11%|█         | 11/99 [00:00<00:01, 45.51it/s]8
+38
+32
+2
+8
+9
+0
+54
+ 19%|█▉        | 19/99 [00:00<00:01, 57.64it/s]42
+68
+1
+52
+38
+89
+ 25%|██▌       | 25/99 [00:00<00:02, 34.01it/s]0
+0
+0
+18
+3
+2
+105
+ 32%|███▏      | 32/99 [00:00<00:01, 40.61it/s]3
+3
+8
+4
+28
+3
+0
+14
+30
+ 41%|████▏     | 41/99 [00:00<00:01, 52.12it/s]1
+0
+1
+0
+6
+16
+13
+13
+0
+20
+6
+5
+16
+0
+2
+6
+ 58%|█████▊    | 57/99 [00:00<00:00, 77.17it/s]1
+25
+0
+0
+7
+2
+2
+5
+22
+0
+2
+3
+0
+13
+33
+ 73%|███████▎  | 72/99 [00:01<00:00, 92.16it/s]6
+2
+2
+8
+3
+2
+29
+4
+17
+21
+0
+ 84%|████████▍ | 83/99 [00:01<00:00, 90.80it/s]4
+26
+9
+4
+1
+23
+7
+2
+37
+1
+ 94%|█████████▍| 93/99 [00:01<00:00, 85.67it/s]0
+15
+4
+2
+1
+0
+100%|██████████| 99/99 [00:01<00:00, 70.98it/s]
+
+DanmakuFactory 1.70 CLI Release by hkm (hkm@tikm.org)
+https://github.com/hihkm/DanmakuFactory
+
+Input file(s):
+Number|Template     |TimeShift|FileName
+     1|xml          |   0.000s|/storage/32426326/20260731/32426326-20260731-053455-779.all.clean.xml
+
+Output file:
+Format|FileName
+   ass|/storage/32426326/20260731/32426326-20260731-053455-779.all.ass
+
+Loading files...
+Loading file "/storage/32426326/20260731/32426326-20260731-053455-779.all.clean.xml"
+
+File Loading Complete.. Danmaku Pool: 2738
+
+Sorting...
+
+Writting file "/storage/32426326/20260731/32426326-20260731-053455-779.all.ass"...
+
+Done!
